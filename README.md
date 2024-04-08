@@ -4,6 +4,10 @@ Online LLM
 ##### Run API:
 cargo run
 
-##### Example of using the /chat/completions endpoint:
+##### Examples of using the /chat/completions endpoint:
 
-curl http://localhost:8000/chat/completions -X POST -d '{"input": "what color is the sky? Limit to 10 words.}'
+curl -X POST http://localhost:8000/chat/completions \
+-d '{"role": "system", "content": "you are a helpful assistant"}'
+
+curl -X POST http://localhost:8000/chat/completions \
+-d '{"role": "user", "content": "why is the sky blue? limit to 10 words."}'
