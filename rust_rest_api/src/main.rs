@@ -7,6 +7,7 @@ use openai_api_rs::v1::chat_completion::{self, ChatCompletionRequest};
 use openai_api_rs::v1::common::GPT4_TURBO_PREVIEW as GPT4;
 use std::env;
 mod crawler;
+mod embeddings;
 
 #[derive(Deserialize)]
 struct Message {
@@ -16,7 +17,7 @@ struct Message {
 
 fn web_crawler(url: String) -> Result<(), Box<dyn std::error::Error>>{
     println!("Scraping webpage: \n");
-    crawler::web_scraper_html(url);
+    crawler::web_scraper_links(url.to_string());
 
     Ok(())
 }
@@ -53,7 +54,7 @@ fn index(data: Json<Message>) -> Result<(), Box<dyn std::error::Error>>{
 }
 
 fn main() {
-    let url = "https://www.artificialintelligence-news.com/2024/04/08/microsoft-ai-opens-london-hub-enormous-pool-talent/"; // testing scraper and html parser with 1 article
+    let url = "https://www.artificialintelligence-news.com";
     web_crawler(url.to_string());
     rocket::ignite().mount("/", routes![index]).launch();
 }
