@@ -7,7 +7,7 @@ use openai_api_rs::v1::chat_completion::{self, ChatCompletionRequest};
 use openai_api_rs::v1::common::GPT4_TURBO_PREVIEW as GPT4;
 use std::env;
 mod crawler;
-mod embeddings;
+use std::fs::read_to_string;
 
 #[derive(Deserialize)]
 struct Message {
@@ -18,6 +18,10 @@ struct Message {
 fn web_crawler(url: String) -> Result<(), Box<dyn std::error::Error>>{
     println!("Scraping webpage: \n");
     crawler::web_scraper_links(url.to_string());
+
+    for subdomain in read_to_string("./data/urls.txt").unwrap().lines() {
+        crawler::web_scraper_html(subdomain.to_string());
+    }
 
     Ok(())
 }

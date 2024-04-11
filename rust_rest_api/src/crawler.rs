@@ -1,5 +1,5 @@
 extern crate spider;
-
+use chrono::NaiveDate;
 use spider::website::Website;
 use spider::tokio;
 use std::fs::File;
@@ -53,11 +53,52 @@ pub fn web_scraper_html(url: String) -> Result<(), Box<dyn std::error::Error>>{
     let response = reqwest::blocking::get(url);
     let html_content = response.unwrap().text().unwrap();
     let document = scraper::Html::parse_document(&html_content);
-    let selector = scraper::Selector::parse("p").unwrap(); // searching for <p> tag based on html structure of selected website
+    let title_selector = scraper::Selector::parse("title").unwrap();
+    let article_selector = scraper::Selector::parse("p").unwrap(); // searching for <p> tag based on html structure of selected website
+    let date_selector = scraper::Selector::parse("time[datetime]").unwrap();
+    let mut date: String = String::new();
+    let mut title: String = String::new();
 
-    // Extract <p> tags
-    for p in document.select(&selector) {
-        println!("{}", p.text().collect::<String>());
+    // Extract article title
+    for t in document.select(&title_selector){
+        title = t.text().collect::<String>();
+    }
+
+    // Extract article date
+    for d in document.select(&date_selector){
+        date = d.text().collect::<String>();
+    }
+
+    let formatted_date = NaiveDate::parse_from_str(&date, "%B %d, %Y").expect("Failed to parse date");
+    let filename = format!("./data/article_{}_{}.txt", formatted_date, title);
+    let mut file = File::create(filename).expect("creation failed");
+
+    // Write title to file
+    file.write(title.as_bytes()).expect("write failed");
+    file.write("\n".as_bytes()).expect("write failed");
+
+    // Write date to file
+    file.write(date.as_bytes()).expect("write failed");
+    file.write("\n".as_bytes()).expect("write failed");
+
+    // Extract article content from <p> tags
+    for p in document.select(&article_selector) {
+        let line = p.text().collect::<String>();
+
+        // Do not include info before article
+        if line.contains("LOG IN") || line.contains("ARTICLE"){
+            continue;
+        }
+        // Do not include info after article
+        if line.contains("Want to learn more about AI and big data from industry leaders?"){
+            break;
+        } else if line.contains("You must be logged in to post a comment."){
+            break;
+        }
+
+        // Write article contents to file
+        file.write(line.as_bytes()).expect("write failed");
+        file.write("\n".as_bytes()).expect("write failed");
     }
 
     Ok(())
