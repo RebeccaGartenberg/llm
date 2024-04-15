@@ -70,7 +70,7 @@ pub fn web_scraper_html(url: String) -> Result<(), Box<dyn std::error::Error>>{
     }
 
     let formatted_date = NaiveDate::parse_from_str(&date, "%B %d, %Y").expect("Failed to parse date");
-    let filename = format!("./data/article_{}_{}.txt", formatted_date, title);
+    let filename = format!("./data/articles/article_{}_{}.txt", formatted_date, title);
     let mut file = File::create(filename).expect("creation failed");
 
     // Write title to file
