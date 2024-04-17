@@ -1,23 +1,42 @@
 #![feature(proc_macro_hygiene, decl_macro)]
 use rocket::{post, routes};
 use rocket_contrib::json::Json;
-use serde::Deserialize;
+use serde::{Deserialize, Serialize};
 use openai_api_rs::v1::api::Client;
 use openai_api_rs::v1::chat_completion::{self, ChatCompletionRequest};
 use openai_api_rs::v1::common::GPT4_TURBO_PREVIEW as GPT4;
 use std::env;
+use std::io::Cursor;
 mod crawler;
-use chrono;
 mod embeddings;
 use std::fs::read_to_string;
 use postgres::Client as PostgresClient;
 use postgres::NoTls;
 use serde_json::{json, Value};
+use rocket::request::Request;
+use rocket::response::{self, Response, Responder};
+use rocket::http::{ContentType, Status};
+
 
 #[derive(Deserialize)]
 struct Messages {
     model: String,
     messages: Vec<serde_json::Value>
+}
+
+#[derive(Debug, Serialize, Deserialize)]
+pub struct ApiResponse {
+    pub choices : Value,
+}
+
+impl<'r> Responder<'r> for ApiResponse {
+    fn respond_to(self, _: &Request) -> Result<Response<'r>, Status> {
+        Ok(Response::build()
+            .sized_body(std::io::Cursor::new(serde_json::to_string(&self).unwrap()))
+            .header(rocket::http::ContentType::JSON)
+            .status(Status::Ok)
+            .finalize())
+    }
 }
 
 fn web_crawler(url: String) -> Result<(), Box<dyn std::error::Error>>{
@@ -35,9 +54,9 @@ fn web_crawler(url: String) -> Result<(), Box<dyn std::error::Error>>{
 }
 
 #[post("/chat/completions", data = "<data>")]
-fn index(data: Json<Messages>) -> Result<(), Box<dyn std::error::Error>>  {
+fn index(data: Json<Messages>) -> Result<ApiResponse, Box<dyn std::error::Error>> {
     let model = data.model.clone();
-    let messages = data.messages.clone();
+    let mut messages = data.messages.clone();
     let mut input_messages = data.messages.clone();
     let api_key = std::env::var("OPENAI_API_KEY").or(Err("Set OPENAI_API_KEY"))?;
     let today = chrono::offset::Local::today().format("%B %d, %Y").to_string();
@@ -47,6 +66,8 @@ fn index(data: Json<Messages>) -> Result<(), Box<dyn std::error::Error>>  {
         .dbname("chatbot_db")
         .user(std::env::var("USER").unwrap().as_str())
         .connect(NoTls)?;
+
+    messages.push(json!({"role": "system", "content": "Today is ".to_string() + &today }));
 
     // Get embeddings for all messages
     for message in messages{
@@ -82,17 +103,14 @@ fn index(data: Json<Messages>) -> Result<(), Box<dyn std::error::Error>>  {
         j+=1;
     }
 
-    let response: Value = ureq::post("https://api.openai.com/v1/chat/completions")
+    let response: ApiResponse = ureq::post("https://api.openai.com/v1/chat/completions")
         .set("Authorization", &format!("Bearer {}", api_key))
         .send_json(ureq::json!({
             "model": model,
             "messages": input_messages,
         }))?
         .into_json()?;
-
-    println!("{}", response);
-
-    Ok(())
+    Ok(response)
 }
 
 fn main() {
