@@ -9,6 +9,8 @@ use std::env;
 mod crawler;
 mod embeddings;
 use std::fs::read_to_string;
+use postgres::Client as PostgresClient;
+use postgres::NoTls;
 
 #[derive(Deserialize)]
 struct Message {
@@ -43,6 +45,33 @@ fn index(data: Json<Message>) -> Result<(), Box<dyn std::error::Error>>{
         message_role = chat_completion::MessageRole::user;
     } else if role == system_role {
         message_role = chat_completion::MessageRole::system;
+    }
+
+    let message_embedding = embeddings::fetch_embeddings(&[content.clone()]);
+    let message_embedding_vec = &message_embedding.unwrap()[0];
+
+    // compare message embedding to all article embeddings
+    let mut postgres_client = PostgresClient::configure()
+        .host("localhost")
+        .dbname("chatbot_db")
+        .user(std::env::var("USER").unwrap().as_str()) //
+        .connect(NoTls)?;
+
+    let docs = postgres_client.query("SELECT * from documents", &[])?;
+
+    // Retrieve top 2 closest embeddings from db
+    let mut query = "SELECT content, 1-(embedding <=> '<embedding_vector>') as cosine_similarity
+    FROM documents
+    ORDER BY cosine_similarity DESC
+    LIMIT 2;"; // source: https://tembo.io/blog/pgvector-and-embedding-solutions-with-postgres
+
+    let message_embedding_vec_str = serde_json::to_string(message_embedding_vec).unwrap();
+    let query = query.replace("<embedding_vector>", &message_embedding_vec_str);
+    let ordered_docs = postgres_client.query(&query, &[])?;
+
+    for doc in ordered_docs{
+        let article_content: String = doc.get("content");
+        println!("{:?}",  article_content);
     }
 
     let req = ChatCompletionRequest::new(
