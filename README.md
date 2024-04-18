@@ -15,6 +15,8 @@ export OPENAI_API_KEY=sk-xxxxxxx (your OpenAI API key)
 
 ./target/release/rust_rest_api
 
+(You may need to give permissions on your local machine to run this file)
+
 #### Run API (using cargo)
 
 With cargo package manager set up the binary executable file can be updated using:
