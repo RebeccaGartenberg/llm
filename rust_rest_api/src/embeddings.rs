@@ -7,7 +7,7 @@ use pgvector::Vector;
 
 // source: https://github.com/pgvector/pgvector-rust/blob/master/examples/openai/src/main.rs
 pub fn fetch_embeddings(input: &[String]) -> Result<Vec<Vec<f32>>, Box<dyn std::error::Error>> {
-    let api_key = std::env::var("OPENAI_API_KEY").or(Err("Set OPENAI_API_KEY"))?;
+    let api_key: String = std::env::var("OPENAI_API_KEY").or(Err("Set OPENAI_API_KEY"))?;
 
     let response: Value = ureq::post("https://api.openai.com/v1/embeddings")
         .set("Authorization", &format!("Bearer {}", api_key))
@@ -64,15 +64,6 @@ pub fn create_embeddings(data_path: String) -> Result<(), Box<dyn std::error::Er
         count += 1;
     }
     println!("Inserted all articles");
-    let result = postgres_client.query("SELECT * from documents", &[])?;
-
-    // Retrieve embeddings from db
-    for row in result {
-        let content: String = row.get("content");
-        let embedding: Vector = row.get("embedding");
-        // println!("content: {}", content);
-        // println!("embedding: {:?}", embedding);
-    }
 
     Ok(())
 }

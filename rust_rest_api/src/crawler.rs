@@ -8,7 +8,7 @@ use std::io::Write;
 // Gets list of subdomains from main url
 #[tokio::main]
 pub async fn web_crawler_urls() {
-    let url = "https://www.artificialintelligence-news.com";
+    let url: &str = "https://www.artificialintelligence-news.com";
     let mut website = Website::new(&url);
     website.crawl().await;
 
@@ -19,9 +19,9 @@ pub async fn web_crawler_urls() {
 
 // Extracts links to articles from webpage
 pub fn web_scraper_links(url: String) -> Result<(), Box<dyn std::error::Error>>{
-    let url_copy = url.clone();
+    let url_copy: String = url.clone();
     let response = reqwest::blocking::get(url);
-    let html_content = response.unwrap().text().unwrap();
+    let html_content: String = response.unwrap().text().unwrap();
     let document = scraper::Html::parse_document(&html_content);
     let selector = scraper::Selector::parse("a[href]").unwrap();
     let mut url_vec: Vec<String> = Vec::new();

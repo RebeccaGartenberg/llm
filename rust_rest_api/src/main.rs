@@ -47,7 +47,7 @@ fn web_crawler(url: String) -> Result<(), Box<dyn std::error::Error>>{
         crawler::web_scraper_html(subdomain.to_string());
     }
 
-    let data_path = "./data/articles";
+    let data_path: &str = "./data/articles";
     embeddings::create_embeddings(data_path.to_string());
 
     Ok(())
@@ -55,11 +55,12 @@ fn web_crawler(url: String) -> Result<(), Box<dyn std::error::Error>>{
 
 #[post("/chat/completions", data = "<data>")]
 fn index(data: Json<Messages>) -> Result<ApiResponse, Box<dyn std::error::Error>> {
-    let model = data.model.clone();
-    let mut messages = data.messages.clone();
-    let mut input_messages = data.messages.clone();
-    let api_key = std::env::var("OPENAI_API_KEY").or(Err("Set OPENAI_API_KEY"))?;
-    let today = chrono::offset::Local::today().format("%B %d, %Y").to_string();
+
+    let model: String = data.model.clone();
+    let mut messages: Vec<serde_json::Value> = data.messages.clone();
+    let mut input_messages: Vec<serde_json::Value> = data.messages.clone();
+    let api_key: String = std::env::var("OPENAI_API_KEY").or(Err("Set OPENAI_API_KEY"))?;
+    let today: String = chrono::offset::Local::today().format("%B %d, %Y").to_string();
     let mut ordered_doc_strings: Vec<String> = Vec::new();
     let mut postgres_client = PostgresClient::configure()
         .host("localhost")
@@ -73,7 +74,7 @@ fn index(data: Json<Messages>) -> Result<ApiResponse, Box<dyn std::error::Error>
     for message in messages{
 
         // Retrieve top 2 closest embeddings from db
-        let mut query = "SELECT content, 1-(embedding <=> '<embedding_vector>') as cosine_similarity
+        let mut query: &str = "SELECT content, 1-(embedding <=> '<embedding_vector>') as cosine_similarity
         FROM documents
         ORDER BY cosine_similarity DESC
         LIMIT 2;"; // source: https://tembo.io/blog/pgvector-and-embedding-solutions-with-postgres
@@ -81,10 +82,10 @@ fn index(data: Json<Messages>) -> Result<ApiResponse, Box<dyn std::error::Error>
         let role: String = message.get("role").unwrap().to_string();
         let content: String = message.get("content").unwrap().to_string();
         let message_embedding = embeddings::fetch_embeddings(&[content]);
-        let message_embedding_vec = &message_embedding.unwrap()[0];
-        let message_embedding_vec_str = serde_json::to_string(message_embedding_vec).unwrap();
+        let message_embedding_vec: &Vec<f32> = &message_embedding.unwrap()[0];
+        let message_embedding_vec_str: String = serde_json::to_string(message_embedding_vec).unwrap();
         let query = query.replace("<embedding_vector>", &message_embedding_vec_str);
-        let ordered_docs = postgres_client.query(&query, &[])?;
+        let ordered_docs: Vec<postgres::row::Row> = postgres_client.query(&query, &[])?;
 
         for doc in ordered_docs{
             let article_content: String = doc.get("content");
@@ -96,9 +97,9 @@ fn index(data: Json<Messages>) -> Result<ApiResponse, Box<dyn std::error::Error>
     input_messages.insert(2, json!({"role": "system", "content": "Use the information provided here to answer the following questions."}));
     let mut i = 3;
     let mut j = 0;
-    let test = ordered_doc_strings.clone();
+    let ordered_doc_content: Vec<String> = ordered_doc_strings.clone();
     for doc in ordered_doc_strings{
-        input_messages.insert(i, json!({"role": "system", "content": test[j]}));
+        input_messages.insert(i, json!({"role": "system", "content": ordered_doc_content.clone()[j]}));
         i+=1;
         j+=1;
     }
@@ -114,7 +115,7 @@ fn index(data: Json<Messages>) -> Result<ApiResponse, Box<dyn std::error::Error>
 }
 
 fn main() {
-    let url = "https://www.artificialintelligence-news.com";
+    let url: &str = "https://www.artificialintelligence-news.com";
     web_crawler(url.to_string());
     rocket::ignite().mount("/", routes![index]).launch();
 }
