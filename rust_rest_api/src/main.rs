@@ -89,7 +89,9 @@ fn index(data: Json<Messages>) -> Result<ApiResponse, Box<dyn std::error::Error>
 
         for doc in ordered_docs{
             let article_content: String = doc.get("content");
-            ordered_doc_strings.push(article_content);
+            if !ordered_doc_strings.contains(&article_content){
+                ordered_doc_strings.push(article_content);
+            }
         }
     }
 
