@@ -1,0 +1,17 @@
+Mistral AI unveils LLM rivalling major players
+February 27, 2024
+
+						Ryan Daws is a senior editor at TechForge Media, with a seasoned background spanning over a decade in tech journalism. His expertise lies in identifying the latest technological trends, dissecting complex topics, and weaving compelling narratives around the most cutting-edge developments. His articles and interviews with leading industry figures have gained him recognition as a key influencer by organisations such as Onalytica. Publications under his stewardship have since gained recognition from leading analyst houses like Forrester for their performance. Find him on X (@gadget_ry) or Mastodon (@gadgetry@techhub.social)
+			
+Mistral AI, a France-based startup, has introduced a new large language model (LLM) called Mistral Large that it claims can compete with several top AI systems on the market.  
+Mistral AI stated that Mistral Large outscored most major LLMs except for OpenAI’s recently launched GPT-4 in tests of language understanding. It also performed strongly in maths and coding assessments.
+Co-founder and Chief Scientist Guillaume Lample said Mistral Large represents a major advance over earlier Mistral models. The company also launched a chatbot interface named Le Chat to allow users to interact with the system, similar to ChatGPT.  
+The proprietary model boasts fluency in English, French, Spanish, German, and Italian, with a vocabulary exceeding 20,000 words. While Mistral’s first model was open-source, Mistral Large’s code remains closed like systems from OpenAI and other firms.  
+Mistral AI received nearly $500 million in funding late last year from backers such as Nvidia and Andreessen Horowitz. It also recently partnered with Microsoft to provide access to Mistral Large through Azure cloud services.  
+We're announcing a multi-year partnership with @MistralAI, as we build on our commitment to offer customers the best choice of open and foundation models on Azure. https://t.co/k1L7lfFeES
+Microsoft’s investment of €15 million into Mistral AI is set to face scrutiny from European Union regulators who are already analysing the tech giant’s ties to OpenAI, maker of market-leading models like GPT-3 and GPT-4. The European Commission said Tuesday it will review Microsoft’s deal with Mistral, which could lead to a formal probe jeopardising the partnership.
+Microsoft has focused most of its AI efforts on OpenAI, having invested around $13 billion into the California company. Those links are now also under review in both the EU and UK for potential anti-competitive concerns. 
+Pricing for the Mistral Large model starts at $8 per million tokens of input and $24 per million output tokens. The system will leverage Azure’s computing infrastructure for training and deployment needs as Mistral AI and Microsoft partner on AI research as well.
+While third-party rankings have yet to fully assess Mistral Large, the firm’s earlier Mistral Medium ranked 6th out of over 60 language models. With the latest release, Mistral AI appears positioned to challenge dominant players in the increasingly crowded AI space.
+(Photo by Joshua Golde on Unsplash)
+See also: Stability AI previews Stable Diffusion 3 text-to-image model

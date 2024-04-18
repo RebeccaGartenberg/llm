@@ -1,0 +1,18 @@
+OpenAI: Musk wanted us to merge with Tesla or take 'full control'
+March 6, 2024
+
+						Ryan Daws is a senior editor at TechForge Media, with a seasoned background spanning over a decade in tech journalism. His expertise lies in identifying the latest technological trends, dissecting complex topics, and weaving compelling narratives around the most cutting-edge developments. His articles and interviews with leading industry figures have gained him recognition as a key influencer by organisations such as Onalytica. Publications under his stewardship have since gained recognition from leading analyst houses like Forrester for their performance. Find him on X (@gadget_ry) or Mastodon (@gadgetry@techhub.social)
+			
+Elon Musk, the billionaire CEO of Tesla and SpaceX, allegedly wanted the AI research company OpenAI to either merge with Tesla or give him full control of the organisation.
+A blog post from OpenAI, in response to a lawsuit filed by Musk against the company, revealed email communications from 2015 to 2018 when Musk was still involved with the company’s operations. 
+In one email from 2017 – as OpenAI was exploring a transition to a for-profit model to secure more funding – Musk reportedly wanted majority equity, control of the board of directors, and the CEO position. However, OpenAI felt this level of control by one individual would go against its mission.
+“Elon wanted us to merge with Tesla or he wanted full control,” wrote OpenAI in their blog post. “Elon left OpenAI, saying there needed to be a relevant competitor to Google/DeepMind and that he was going to do it himself. He said he’d be supportive of us finding our own path.”
+When the merger discussions stalled, Musk suggested in 2018 that OpenAI could become attached to Tesla as a path for the automaker to provide funding. “Tesla is the only path that could even hope to hold a candle to Google,” Musk wrote in an email forwarded to OpenAI.
+The blog post indicates these merger or acquisition proposals from Musk did not ultimately succeed, and he soon left the company. In a final email cited, Musk said his “probability assessment of OpenAI being relevant to DeepMind/Google without a dramatic change in execution and resources is 0%.”
+Musk’s lawsuit, filed in March 2024, accuses OpenAI of breach of contract, breach of fiduciary duty and unfair competition. It alleges the company has become a “closed-source de facto subsidiary” of Microsoft after taking $13 billion in investment from the tech giant.
+OpenAI denies the claims, stating Musk was aware the “Open” in its name did not mean it had to open-source all its AI technology to the public. The company expressed sadness that the situation has devolved into litigation with someone they “deeply admired.”
+Ilya Sutskever explains the meaning of “open” in “OpenAI” in email from January 2016.It was never about open sourcing. pic.twitter.com/cyxNOG2IDG
+Musk has not yet publicly responded to the blog post from OpenAI. The lawsuit seeks to compel OpenAI to make its research freely available and prohibit exclusive arrangements benefiting individual companies.
+“We intend to move to dismiss all of Elon’s claims,” says OpenAI.
+(Photo by Austin Ramsey on Unsplash)
+See also: Anthropic’s latest AI model beats rivals and achieves industry first

@@ -1,0 +1,15 @@
+Samsung aims to boost on-device AI with LPDDR5X DRAM
+April 17, 2024
+
+						Ryan Daws is a senior editor at TechForge Media, with a seasoned background spanning over a decade in tech journalism. His expertise lies in identifying the latest technological trends, dissecting complex topics, and weaving compelling narratives around the most cutting-edge developments. His articles and interviews with leading industry figures have gained him recognition as a key influencer by organisations such as Onalytica. Publications under his stewardship have since gained recognition from leading analyst houses like Forrester for their performance. Find him on X (@gadget_ry) or Mastodon (@gadgetry@techhub.social)
+			
+Samsung has unveiled the industry’s first LPDDR5X DRAM with speeds of up to 10.7 Gbps, setting a new benchmark for the industry.
+Achieved through the use of cutting-edge 12 nanometer (nm)-class process technology, Samsung has not only attained the highest performance metrics but also the smallest chip size among existing low-power double data rate (LPDDR) offerings.
+YongCheol Bae, Executive VP of Memory Product Planning at Samsung, commented: “As demand for low-power, high-performance memory increases, LPDDR DRAM is expected to expand its applications from mainly mobile to other areas that traditionally require higher performance and reliability such as PCs, accelerators, servers, and automobiles.”
+Bae further assured that Samsung is committed to continuing its innovation trajectory, focusing on delivering products tailored for the forthcoming on-device AI era through strategic collaborations with partners.
+On-device AI capabilities are increasingly becoming a pivotal consideration. This shift accentuates the necessity for memory solutions like LPDDR that are both low in power consumption and high in performance.
+The new 10.7Gbps LPDDR5X from Samsung not only offers a performance boost of over 25 percent and a capacity increase of more than 30 percent compared to its predecessor, but also caters to the evolving demands of on-device AI with its optimal solution for high-capacity, high-performance, and energy-efficient memory requirements. Mobile DRAM single package capacity has been expanded up to 32 gigabytes, marking a significant milestone for mobile and on-device AI applications.
+Furthermore, the LPDDR5X incorporates advanced power-saving technologies, including optimised power variation that dynamically adjusts energy usage according to the workload and expanded low-power mode intervals to facilitate extended energy-saving periods. These enhancements collectively improve power efficiency by 25 percent over the previous generation, enabling not only longer battery life for mobile devices but also reduced energy consumption for servers, thereby lowering the total cost of ownership.
+Samsung anticipates the commencement of mass production of the 10.7Gbps LPDDR5X by H2 2024, following comprehensive verification processes with mobile application processor (AP) and mobile device manufacturers.
+(Image Credit: Samsung)
+See also: Hugging Face launches Idefics2 vision-language model

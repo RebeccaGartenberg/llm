@@ -1,0 +1,17 @@
+MyShell releases OpenVoice voice cloning AI
+January 3, 2024
+
+						Ryan Daws is a senior editor at TechForge Media, with a seasoned background spanning over a decade in tech journalism. His expertise lies in identifying the latest technological trends, dissecting complex topics, and weaving compelling narratives around the most cutting-edge developments. His articles and interviews with leading industry figures have gained him recognition as a key influencer by organisations such as Onalytica. Publications under his stewardship have since gained recognition from leading analyst houses like Forrester for their performance. Find him on X (@gadget_ry) or Mastodon (@gadgetry@techhub.social)
+			
+A new open-source AI called OpenVoice offers voice cloning with unprecedented speed and accuracy.
+Developed by researchers at MIT, Tsinghua University, and Canadian startup MyShell, OpenVoice uses just seconds of audio to clone a voice and allows granular control over tone, emotion, accent, rhythm, and more.  
+MyShell unveiled OpenVoice in a post this week, linking to a pre-reviewed research paper explaining the technology as well as demo sites on MyShell and HuggingFace where users can try it.
+Today, we proudly open source our OpenVoice algorithm, embracing our core ethos – AI for all.Experience it now: https://t.co/zHJpeVpX3t. Clone voices with unparalleled precision, with granular control of tone, from emotion to accent, rhythm, pauses, and intonation, using just a… pic.twitter.com/RwmYajpxOt
+OpenVoice comprises two AI models working together for text-to-speech conversion and voice tone cloning.
+The first model handles language style, accents, emotion, and other speech patterns. It was trained on 30,000 audio samples with varying emotions from English, Chinese, and Japanese speakers. The second “tone converter” model learned from over 300,000 samples encompassing 20,000 voices.
+By combining the universal speech model with a user-provided voice sample, OpenVoice can clone voices with very little data. This helps it generate cloned speech significantly faster than alternatives like Meta’s Voicebox.
+OpenVoice comes from California-based startup MyShell, founded in 2023. With $5.6 million in early funding and over 400,000 users already, MyShell bills itself as a decentralised platform for creating and discovering AI apps.  
+In addition to pioneering instant voice cloning, MyShell offers original text-based chatbot personalities, meme generators, user-created text RPGs, and more. Some content is locked behind a subscription fee. The company also charges bot creators to promote their bots on its platform.
+By open-sourcing its voice cloning capabilities through HuggingFace while monetising its broader app ecosystem, MyShell stands to increase users across both while advancing an open model of AI development.
+(Photo by Claus Grünstäudl on Unsplash)
+See also: AI & Big Data Expo: Maximising value from real-time data streams

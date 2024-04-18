@@ -1,0 +1,18 @@
+Anthropic says Claude 3 Haiku is the fastest model in its class
+March 14, 2024
+
+						Ryan Daws is a senior editor at TechForge Media, with a seasoned background spanning over a decade in tech journalism. His expertise lies in identifying the latest technological trends, dissecting complex topics, and weaving compelling narratives around the most cutting-edge developments. His articles and interviews with leading industry figures have gained him recognition as a key influencer by organisations such as Onalytica. Publications under his stewardship have since gained recognition from leading analyst houses like Forrester for their performance. Find him on X (@gadget_ry) or Mastodon (@gadgetry@techhub.social)
+			
+Anthropic has released Claude 3 Haiku, the fastest and most affordable AI model in its intelligence class. Boasting state-of-the-art vision capabilities and strong performance on industry benchmarks, Haiku is touted as a versatile solution for a wide range of enterprise applications.
+The model is now available alongside Anthropic’s Sonnet and Opus models in the Claude API and on Claude.ai for Claude Pro subscribers.
+“Speed is essential for our enterprise users who need to quickly analyse large datasets and generate timely output for tasks like customer support,” an Anthropic spokesperson said.
+“Claude 3 Haiku is three times faster than its peers for the vast majority of workloads, processing 21K tokens (~30 pages) per second for prompts under 32K tokens.”
+Haiku is designed to generate swift output, enabling responsive, engaging chat experiences, and the execution of many small tasks simultaneously.
+With state-of-the-art vision capabilities and strong performance on industry benchmarks across reasoning, math, and coding, Haiku is a versatile solution for a wide range of enterprise applications. pic.twitter.com/ssMa7L1bgJ
+Anthropic’s pricing model for Haiku has an input-to-output token ratio of 1:5, designed explicitly for enterprise workloads which often involve longer prompts. The company says businesses can rely on Haiku to quickly analyse large volumes of documents, such as quarterly filings, contracts, or legal cases, for half the cost of other models in its performance tier.
+As an example, Claude 3 Haiku can process and analyse 400 Supreme Court cases or 2,500 images for just one US dollar.
+Alongside its speed and affordability, Anthropic says Claude 3 Haiku prioritises enterprise-grade security and robustness. The company conducts rigorous testing to reduce the likelihood of harmful outputs and jailbreaks. Additional security layers include continuous systems monitoring, endpoint hardening, secure coding practices, strong data encryption protocols, and stringent access controls.
+Anthropic also conducts regular security audits and works with experienced penetration testers to proactively identify and address vulnerabilities.
+From today, customers can use Claude 3 Haiku through Anthropic’s API or with a Claude Pro subscription. Haiku is available on Amazon Bedrock and will be coming soon to Google Cloud Vertex AI.
+(Image Credit: Anthropic)
+See also: EU approves controversial AI Act to mixed reactions

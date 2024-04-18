@@ -1,0 +1,20 @@
+Databricks claims DBRX sets 'a new standard' for open-source LLMs
+March 28, 2024
+
+						Ryan Daws is a senior editor at TechForge Media, with a seasoned background spanning over a decade in tech journalism. His expertise lies in identifying the latest technological trends, dissecting complex topics, and weaving compelling narratives around the most cutting-edge developments. His articles and interviews with leading industry figures have gained him recognition as a key influencer by organisations such as Onalytica. Publications under his stewardship have since gained recognition from leading analyst houses like Forrester for their performance. Find him on X (@gadget_ry) or Mastodon (@gadgetry@techhub.social)
+			
+Databricks has announced the launch of DBRX, a powerful new open-source large language model that it claims sets a new bar for open models by outperforming established options like GPT-3.5 on industry benchmarks. 
+The company says the 132 billion parameter DBRX model surpasses popular open-source LLMs like LLaMA 2 70B, Mixtral, and Grok-1 across language understanding, programming, and maths tasks. It even outperforms Anthropic’s closed-source model Claude on certain benchmarks.
+DBRX demonstrated state-of-the-art performance among open models on coding tasks, beating out specialised models like CodeLLaMA despite being a general-purpose LLM. It also matched or exceeded GPT-3.5 across nearly all benchmarks evaluated.
+The state-of-the-art capabilities come thanks to a more efficient mixture-of-experts architecture that makes DBRX up to 2x faster at inference than LLaMA 2 70B, despite having fewer active parameters. Databricks claims training the model was also around 2x more compute-efficient than dense alternatives.
+“DBRX is setting a new standard for open source LLMs—it gives enterprises a platform to build customised reasoning capabilities based on their own data,” said Ali Ghodsi, Databricks co-founder and CEO.
+DBRX was pretrained on a massive 12 trillion tokens of “carefully curated” text and code data selected to improve quality. It leverages technologies like rotary position encodings and curriculum learning during pretraining.
+Customers can interact with DBRX via APIs or use the company’s tools to finetune the model on their proprietary data. It’s already being integrated into Databricks’ AI products.
+“Our research shows enterprises plan to spend half of their AI budgets on generative AI,” said Dave Menninger, Executive Director, Ventana Research, part of ISG. “One of the top three challenges they face is data security and privacy.
+“With their end-to-end Data Intelligence Platform and the introduction of DBRX, Databricks is enabling enterprises to build generative AI applications that are governed, secure and tailored to the context of their business, while maintaining control and ownership of their IP along the way.”
+Partners including Accenture, Block, Nasdaq, Prosus, Replit, and Zoom praised DBRX’s potential to accelerate enterprise adoption of open, customised large language models. Analysts said it could drive a shift from closed to open source as fine-tuned open models match proprietary performance.
+Mike O’Rourke, Head of AI and Data Services at NASDAQ, commented: “Databricks is a key partner to Nasdaq on some of our most important data systems. They continue to be at the forefront of the industry in managing data and leveraging AI, and we are excited about the release of DBRX.
+“The combination of strong model performance and favourable serving economics is the kind of innovation we are looking for as we grow our use of generative AI at Nasdaq.”
+You can find the DBRX base and fine-tuned models on Hugging Face. The project’s GitHub has further resources and code examples.
+(Photo by Ryan Quintal)
+See also: Large language models could ‘revolutionise the finance sector within two years’

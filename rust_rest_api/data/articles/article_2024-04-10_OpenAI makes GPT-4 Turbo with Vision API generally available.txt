@@ -1,0 +1,18 @@
+OpenAI makes GPT-4 Turbo with Vision API generally available
+April 10, 2024
+
+						Ryan Daws is a senior editor at TechForge Media, with a seasoned background spanning over a decade in tech journalism. His expertise lies in identifying the latest technological trends, dissecting complex topics, and weaving compelling narratives around the most cutting-edge developments. His articles and interviews with leading industry figures have gained him recognition as a key influencer by organisations such as Onalytica. Publications under his stewardship have since gained recognition from leading analyst houses like Forrester for their performance. Find him on X (@gadget_ry) or Mastodon (@gadgetry@techhub.social)
+			
+OpenAI has announced that its powerful GPT-4 Turbo with Vision model is now generally available through the company’s API, opening up new opportunities for enterprises and developers to integrate advanced language and vision capabilities into their applications.
+The launch of GPT-4 Turbo with Vision on the API follows the initial release of GPT-4’s vision and audio upload features last September and the unveiling of the turbocharged GPT-4 Turbo model at OpenAI’s developer conference in November.
+GPT-4 Turbo promises significant speed improvements, larger input context windows of up to 128,000 tokens (equivalent to about 300 pages), and increased affordability for developers.
+A key enhancement is the ability for API requests to utilise the model’s vision recognition and analysis capabilities through text format JSON and function calling. This allows developers to generate JSON code snippets that can automate actions within connected apps, such as sending emails, making purchases, or posting online. However, OpenAI strongly recommends building user confirmation flows before taking actions that impact the real world.
+Several startups are already leveraging GPT-4 Turbo with Vision, including Cognition, whose AI coding agent Devin relies on the model to automatically generate full code:
+Devin, built by @cognition_labs, is an AI software engineering assistant powered by GPT-4 Turbo that uses vision for a variety of coding tasks. pic.twitter.com/E1Svxe5fBu
+Healthify, a health and fitness app, uses the model to provide nutritional analysis and recommendations based on photos of meals:
+The @healthifyme team built Snap using GPT-4 Turbo with Vision to give users nutrition insights through photo recognition of foods from around the world. pic.twitter.com/jWFLuBgEoA
+TLDraw, a UK-based startup, employs GPT-4 Turbo with Vision to power its virtual whiteboard and convert user drawings into functional websites:
+Make Real, built by @tldraw, lets users draw UI on a whiteboard and uses GPT-4 Turbo with Vision to generate a working website powered by real code. pic.twitter.com/RYlbmfeNRZ
+Despite facing stiff competition from newer models such as Anthropic’s Claude 3 Opus and Google’s Gemini Advanced, the API launch should help solidify OpenAI’s position in the enterprise market as developers await the company’s next large language model.
+(Photo by v2osk)
+See also: Stability AI unveils 12B parameter Stable LM 2 model and updated 1.6B variant

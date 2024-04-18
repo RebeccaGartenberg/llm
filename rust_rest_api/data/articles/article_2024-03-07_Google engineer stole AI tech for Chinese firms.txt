@@ -1,0 +1,16 @@
+Google engineer stole AI tech for Chinese firms
+March 7, 2024
+
+						Ryan Daws is a senior editor at TechForge Media, with a seasoned background spanning over a decade in tech journalism. His expertise lies in identifying the latest technological trends, dissecting complex topics, and weaving compelling narratives around the most cutting-edge developments. His articles and interviews with leading industry figures have gained him recognition as a key influencer by organisations such as Onalytica. Publications under his stewardship have since gained recognition from leading analyst houses like Forrester for their performance. Find him on X (@gadget_ry) or Mastodon (@gadgetry@techhub.social)
+			
+A former Google engineer has been charged with stealing trade secrets related to the company’s AI technology and secretly working with two Chinese firms.
+Linwei Ding, a 38-year-old Chinese national, was arrested on Wednesday in Newark, California, and faces four counts of federal trade secret theft, each punishable by up to 10 years in prison.
+The indictment alleges that Ding, who was hired by Google in 2019 to develop software for the company’s supercomputing data centres, began transferring sensitive trade secrets and confidential information to his personal Google Cloud account in 2021.
+“Ding continued periodic uploads until May 2, 2023, by which time Ding allegedly uploaded more than 500 unique files containing confidential information,” said the US Department of Justice in a statement.
+Prosecutors claim that after stealing the trade secrets, Ding was offered a chief technology officer position at a startup AI company in China and participated in investor meetings for that firm. Additionally, Ding is alleged to have founded and served as CEO of a China-based startup focused on training AI models using supercomputing chips.
+“Today’s charges are the latest illustration of the lengths affiliates of companies based in the People’s Republic of China are willing to go to steal American innovation,” said FBI Director Christopher Wray.
+“The theft of innovative technology and trade secrets from American companies can cost jobs and have devastating economic and national security consequences.”
+If convicted on all counts, Ding faces a maximum penalty of 40 years in prison and a fine of up to $1 million.
+The case underscores the ongoing tensions between the US and China over intellectual property theft and the race to dominate emerging technologies like AI.
+(Photo by Towfiqu Barbhuiya on Unsplash)
+See also: OpenAI: Musk wanted us to merge with Tesla or take ‘full control’

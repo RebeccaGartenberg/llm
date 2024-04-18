@@ -1,0 +1,16 @@
+Amazon trains 980M parameter LLM with 'emergent abilities'
+February 15, 2024
+
+						Ryan Daws is a senior editor at TechForge Media, with a seasoned background spanning over a decade in tech journalism. His expertise lies in identifying the latest technological trends, dissecting complex topics, and weaving compelling narratives around the most cutting-edge developments. His articles and interviews with leading industry figures have gained him recognition as a key influencer by organisations such as Onalytica. Publications under his stewardship have since gained recognition from leading analyst houses like Forrester for their performance. Find him on X (@gadget_ry) or Mastodon (@gadgetry@techhub.social)
+			
+Researchers at Amazon have trained a new large language model (LLM) for text-to-speech that they claim exhibits “emergent” abilities. 
+The 980 million parameter model, called BASE TTS, is the largest text-to-speech model yet created. The researchers trained models of various sizes on up to 100,000 hours of public domain speech data to see if they would observe the same performance leaps that occur in natural language processing models once they grow past a certain scale. 
+They found that their medium-sized 400 million parameter model – trained on 10,000 hours of audio – showed a marked improvement in versatility and robustness on tricky test sentences.
+The test sentences contained complex lexical, syntactic, and paralinguistic features like compound nouns, emotions, foreign words, and punctuation that normally trip up text-to-speech systems. While BASE TTS did not handle them perfectly, it made significantly fewer errors in stress, intonation, and pronunciation than existing models.
+“These sentences are designed to contain challenging tasks—none of which BASE TTS is explicitly trained to perform,” explained the researchers. 
+The largest 980 million parameter version of the model – trained on 100,000 hours of audio – did not demonstrate further abilities beyond the 400 million parameter version.
+While an experimental process, the creation of BASE TTS demonstrates these models can reach new versatility thresholds as they scale—an encouraging sign for conversational AI. The researchers plan further work to identify optimal model size for emergent abilities.
+The model is also designed to be lightweight and streamable, packaging emotional and prosodic data separately. This could allow the natural-sounding spoken audio to be transmitted across low-bandwidth connections.
+You can find the full BASE TTS paper on arXiv here.
+(Photo by Nik on Unsplash)
+See also: OpenAI rolls out ChatGPT memory to select users

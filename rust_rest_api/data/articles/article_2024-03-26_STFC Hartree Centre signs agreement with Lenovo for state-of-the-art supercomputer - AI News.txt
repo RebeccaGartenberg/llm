@@ -1,0 +1,27 @@
+STFC Hartree Centre signs agreement with Lenovo for state-of-the-art supercomputer - AI News
+March 26, 2024
+
+			                
+				
+            			Duncan is an award-winning editor with more than 20 years experience in journalism. Having launched his tech journalism career as editor of Arabian Computer News in Dubai, he has since edited an array of tech and digital marketing publications, including Computer Business Review, TechWeekEurope, Figaro Digital, Digit and Marketing Gazette.
+			
+The Science and Technology Facilities Council (STFC), a UK government agency that carries out research in science and engineering, has signed an agreement with Lenovo for the installation of a powerful new supercomputer for the STFC Hartree Centre.
+Ten times more powerful than its predecessor, but using less electricity thanks to Lenovo’s direct water cooling, the new supercomputer will power AI research for UK industry
+The new supercomputer is part of the Hartree Centre’s £210 million Hartree National Centre for Digital Innovation (HNCDI) programme, which provides UK industry access to state-of-the-art digital technologies and expertise and is complementary to investments in the wider AI Research Resource (AIRR). 
+It will support the HNCDI’s rapidly expanding supercomputing and AI activities, and will be installed later this year at its new £30 million supercomputing centre, currently under construction.   
+A 44.7 petaflop system, the Lenovo ThinkSystem Neptune will perform more than 44 quadrillion floating point operations (calculations) per second.
+To put this into context, if you were to carry out one calculation per second, it would take nearly 1400 million years to reach this number.
+The new GPU-based system (graphics processing unit) is perfect for AI workloads, and marks a significant leap for the Hartree Centre’s capabilities, with ten times the processing power of its current system, Scafell Pike. Furthermore, it will be more power-efficient, taking up less space and using less electricity per unit of performance.
+The new supercomputer uses innovative warm water cooling which can reduce energy demands by up to 40% while boosting performance by up to 10%.
+Powering UK Industry with AI
+Located at STFC’s Daresbury Laboratory, at Sci-Tech Daresbury in the Liverpool City Region, the Hartree Centre is the UK’s only supercomputing centre dedicated to industry engagement. This capability will drive forward innovation in industry use cases and applications.
+Its HNCDI programme plays a vital role in equipping businesses with skills and technical knowledge to adopt emerging digital technologies, including supercomputing, quantum computing, and AI.
+It is enabling productivity, innovation and growth in UK organisations through access to these advanced supercomputing technologies, which are typically available only to academia and large-scale industry,
+Solving global challenges
+At the HNCDI, the new supercomputer will be strategically positioned to contribute to discovery-led industrial research, focusing on solutions to global challenges in areas such as:
+This includes the Hartree Centre’s continued collaboration with the UK Atomic Energy Authority, which is using the Centre to research new reactors for clean nuclear fusion energy.
+Ultimately, the new supercomputer will reduce the time and cost associated with making research breakthroughs, including for organisations such as the Met Office, Unilever and Rolls Royce, that the Hartree Centre has continued to work with over the last decade.
+Kate Royse, director, STFC Hartree Centre, said: “We are very excited to be working with Lenovo on our next generation of supercomputer at the Hartree Centre. Our mission is to equip UK industry with the knowledge, skills and compute needed to fully unlock the potential of advanced digital technologies. With our new supercomputer we will be able to support UK industry in the use of big data and AI technologies to enable UK businesses to take a leading role internationally on the responsible adoption and exploitation of AI technology.”
+Noam Rosen, EMEA director HPC/AI, Lenovo, said: “Lenovo is equally enthusiastic about our collaboration with the Hartree Centre on its ambitious journey to revolutionize HPC and AI capabilities in the UK. Our collaboration is not just about delivering a state-of-the-art supercomputer; it’s about building a versatile, robust, and powerful system tailored to meet the Centre’s diverse and evolving needs. From advanced modeling and simulation in various scientific disciplines to pioneering work in AI and machine learning, this new power-efficient supercomputer will be a cornerstone for innovation, pushing the boundaries of big data and AI technologies to bolster the UK industry’s global leadership in responsible and ethical technology adoption.”
+Mark Thomson, Executive Chair, STFC, said: “STFC’s agreement with Lenovo is an exciting milestone in our mission to provide UK businesses with access to the vital infrastructure and expertise that will help them to grow and succeed on a global scale, which in turn will drive productivity and job creation. By enabling UK industry to adopt advanced digital technologies, we are supporting the government ambitions to build a competitive and innovative digital economy that will both turbo drive economic growth and reap societal benefits for the UK, as well as for the UK to be a global AI superpower.”
+The HNCDI new Lenovo supercomputer in numbers:

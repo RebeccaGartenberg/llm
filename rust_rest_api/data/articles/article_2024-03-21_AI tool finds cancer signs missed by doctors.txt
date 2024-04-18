@@ -1,0 +1,14 @@
+AI tool finds cancer signs missed by doctors
+March 21, 2024
+
+						Ryan Daws is a senior editor at TechForge Media, with a seasoned background spanning over a decade in tech journalism. His expertise lies in identifying the latest technological trends, dissecting complex topics, and weaving compelling narratives around the most cutting-edge developments. His articles and interviews with leading industry figures have gained him recognition as a key influencer by organisations such as Onalytica. Publications under his stewardship have since gained recognition from leading analyst houses like Forrester for their performance. Find him on X (@gadget_ry) or Mastodon (@gadgetry@techhub.social)
+			
+An AI tool has proven capable of detecting signs of cancer that were overlooked by human radiologists.
+The AI tool, called Mia, was piloted alongside NHS clinicians in the UK and analysed the mammograms of over 10,000 women. 
+Most of the participants were cancer-free, but the AI successfully flagged all of those with symptoms of breast cancer—as well as an additional 11 cases that the doctors failed to identify. Of the 10,889 women who participated in the trial, only 81 chose not to have their scans reviewed by the AI system.
+The AI tool was trained on a dataset of over 6,000 previous breast cancer cases to learn the subtle patterns and imaging biomarkers associated with malignant tumours. When evaluated on the new cases, it correctly predicted the presence of cancer with 81.6 percent accuracy and correctly ruled it out 72.9 percent of the time.
+Breast cancer is the most common cancer in women worldwide, with two million new cases diagnosed annually. While survival rates have improved with earlier detection and better treatments, many patients still experience severe side effects like lymphoedema after surgery and radiotherapy.
+Researchers are now developing the AI system further to predict a patient’s risk of such side effects up to three years after treatment. This could allow doctors to personalise care with alternative treatments or additional supportive measures for high-risk patients.
+The research team plans to enrol 780 breast cancer patients in a clinical trial called Pre-Act to prospectively validate the AI risk prediction model over a two-year follow-up period. The long-term goal is an AI system that can comprehensively evaluate a patient’s prognosis and treatment needs.
+(Photo by Angiola Harry)
+See also: NVIDIA unveils Blackwell architecture to power next GenAI wave 

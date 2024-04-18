@@ -1,0 +1,15 @@
+Hugging Face is launching an open robotics project
+March 8, 2024
+
+						Ryan Daws is a senior editor at TechForge Media, with a seasoned background spanning over a decade in tech journalism. His expertise lies in identifying the latest technological trends, dissecting complex topics, and weaving compelling narratives around the most cutting-edge developments. His articles and interviews with leading industry figures have gained him recognition as a key influencer by organisations such as Onalytica. Publications under his stewardship have since gained recognition from leading analyst houses like Forrester for their performance. Find him on X (@gadget_ry) or Mastodon (@gadgetry@techhub.social)
+			
+Hugging Face, the startup behind the popular open source machine learning codebase and ChatGPT rival Hugging Chat, is venturing into new territory with the launch of an open robotics project.
+The ambitious expansion was announced by former Tesla staff scientist Remi Cadene in a post on X:
+After 3 years @tesla and Optimus, I am thrilled to announce that I joined Hugging Face to start an ambitious open robotics project! (open as in open-source, not as in Open AI) Looking for engineers to build real robots in Paris 🇫🇷 https://t.co/cFuNL4PVI4 🤖🤗 pic.twitter.com/7IkunPXOpX
+In keeping with Hugging Face’s ethos of open source, Cadene stated the robot project would be “open-source, not as in Open AI” in reference to OpenAI’s legal battle with Cadene’s former boss, Elon Musk.
+Cadene – who will be leading the robotics initiative – revealed that Hugging Face is hiring robotics engineers in Paris, France.
+A job listing for an “Embodied Robotics Engineer” sheds light on the project’s goals, which include “designing, building, and maintaining open-source and low cost robotic systems that integrate AI technologies, specifically in deep learning and embodied AI.”
+The role involves collaborating with ML engineers, researchers, and product teams to develop innovative robotics solutions that “push the boundaries of what’s possible in robotics and AI.” Key responsibilities range from building low-cost robots using off-the-shelf components and 3D-printed parts to integrating deep learning and embodied AI technologies into robotic systems.
+Until now, Hugging Face has primarily focused on software offerings like its machine learning codebase and open-source chatbot. The robotics project marks a significant departure into the hardware realm as the startup aims to bring AI into the physical world through open and affordable robotic platforms.
+(Photo by Possessed Photography on Unsplash)
+See also: Google engineer stole AI tech for Chinese firms

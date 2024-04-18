@@ -2,10 +2,6 @@
 use rocket::{post, routes};
 use rocket_contrib::json::Json;
 use serde::{Deserialize, Serialize};
-use openai_api_rs::v1::api::Client;
-use openai_api_rs::v1::chat_completion::{self, ChatCompletionRequest};
-use openai_api_rs::v1::common::GPT4_TURBO_PREVIEW as GPT4;
-use std::env;
 use std::io::Cursor;
 mod crawler;
 mod embeddings;
@@ -14,7 +10,7 @@ use postgres::Client as PostgresClient;
 use postgres::NoTls;
 use serde_json::{json, Value};
 use rocket::request::Request;
-use rocket::response::{self, Response, Responder};
+use rocket::response::{Response, Responder};
 use rocket::http::{ContentType, Status};
 
 
@@ -32,8 +28,8 @@ pub struct ApiResponse {
 impl<'r> Responder<'r> for ApiResponse {
     fn respond_to(self, _: &Request) -> Result<Response<'r>, Status> {
         Ok(Response::build()
-            .sized_body(std::io::Cursor::new(serde_json::to_string(&self).unwrap()))
-            .header(rocket::http::ContentType::JSON)
+            .sized_body(Cursor::new(serde_json::to_string(&self).unwrap()))
+            .header(ContentType::JSON)
             .status(Status::Ok)
             .finalize())
     }
@@ -79,7 +75,6 @@ fn index(data: Json<Messages>) -> Result<ApiResponse, Box<dyn std::error::Error>
         ORDER BY cosine_similarity DESC
         LIMIT 2;"; // source: https://tembo.io/blog/pgvector-and-embedding-solutions-with-postgres
 
-        let role: String = message.get("role").unwrap().to_string();
         let content: String = message.get("content").unwrap().to_string();
         let message_embedding = embeddings::fetch_embeddings(&[content]);
         let message_embedding_vec: &Vec<f32> = &message_embedding.unwrap()[0];

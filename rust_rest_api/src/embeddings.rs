@@ -1,6 +1,5 @@
 use postgres::Client as PostgresClient;
 use postgres::NoTls;
-use std::env;
 use std::fs;
 use serde_json::Value;
 use pgvector::Vector;
@@ -50,6 +49,7 @@ pub fn create_embeddings(data_path: String) -> Result<(), Box<dyn std::error::Er
     let entries = fs::read_dir(data_path)?;
     let mut count = 1;
     for entry in entries{
+
         println!("getting article {}", count);
         let article_path = entry?.path();
         let article = fs::read_to_string(article_path);

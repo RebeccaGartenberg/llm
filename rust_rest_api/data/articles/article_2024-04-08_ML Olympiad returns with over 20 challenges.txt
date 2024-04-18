@@ -1,0 +1,35 @@
+ML Olympiad returns with over 20 challenges
+April 8, 2024
+
+						Ryan Daws is a senior editor at TechForge Media, with a seasoned background spanning over a decade in tech journalism. His expertise lies in identifying the latest technological trends, dissecting complex topics, and weaving compelling narratives around the most cutting-edge developments. His articles and interviews with leading industry figures have gained him recognition as a key influencer by organisations such as Onalytica. Publications under his stewardship have since gained recognition from leading analyst houses like Forrester for their performance. Find him on X (@gadget_ry) or Mastodon (@gadgetry@techhub.social)
+			
+The popular ML Olympiad is back for its third round with over 20 community-hosted machine learning competitions on Kaggle.
+The ML Olympiad – organised by groups including ML GDE, TFUG, and other ML communities – aims to provide developers with hands-on opportunities to learn and practice machine learning skills by tackling real-world challenges.
+Over the previous two rounds, an impressive 605 teams participated across 32 competitions, generating 105 discussions and 170 notebooks.
+This year’s lineup includes challenges spanning areas like healthcare, sustainability, natural language processing (NLP), computer vision, and more. Competitions are hosted by expert groups and developers from around the world.Here are this year’s challenges:
+Hosted by Rishiraj Acharya (AI/ML GDE) in collaboration with TFUG Kolkata, this competition tasks participants with predicting smoking status using bio-signal ML models.
+Organised by Anas Lahdhiri under MLAct, this challenge calls for the development of a classification model to differentiate between jellyfish and plastic pollution in ocean imagery.
+Luca Massaron (AI/ML GDE) presents a unique challenge of identifying hallucinations in answers provided by a Mistral 7B instruct model.
+Anushka Raj, alongside TFUG Hajipur, seeks ML solutions to mitigate food wastage, a critical concern in today’s world.
+Hosted by Ankit Kumar Verma and TFUG Prayagraj, this competition involves predicting the percentage of body fat in men using multiple regression methods.
+Ayush Morbar from Offbeats Byte Labs invites participants to build a regression model to predict the age of crabs.
+TFUG Nashik challenges participants to forecast the weather condition in Nashik, India, leveraging machine learning techniques.
+Usha Rengaraju presents a task of predicting the level of damage to buildings caused by earthquakes, based on various factors.
+TFUG Bangladesh (Dhaka) aims to predict rainfall, average temperature, and rainy days for a particular day in Bangladesh.
+Md Shahriar Azad Evan and Shuvro Pal from TFUG North Bengal seek to predict CO2 emissions per capita for 2030 using global development indicators.
+Kuan Hoong (AI/ML GDE) challenges participants to predict loan approval status, addressing a crucial aspect of financial inclusion.
+Ashwin Raj and BeyondML task participants with predicting the habitability score of properties, promoting sustainable urban development.
+Hosted in Brazilian Portuguese, this challenge by Mikaeri Ohana, Pedro Gengo, and Vinicius F. Caridá (AI/ML GDE) involves classifying toxic tweets.
+Yara Armel Desire of TFUG Abidjan invites participants to predict humanitarian aid contributions in response to disasters worldwide.
+Kartikey Rawat from TFUG Durg calls for the development of predictive models to estimate traffic density in urban areas.
+TFUG Surabaya presents a challenge of classifying customer opinions into Likert scale categories.
+Mohammed Moinuddin and TFUG Hyderabad task participants with predicting temperatures for specific months in India.
+Hosted by TFUG Bhopal, this competition involves developing classification models to predict tumour malignancy.
+Akaash Tripathi from TFUG Ghaziabad challenges participants to build a system that automatically generates job descriptions using Generative AI and chatbot interface.
+GalsenAI presents a challenge of accurately translating French sentences into Wolof, offering a platform to enhance language translation capabilities.
+Taha Bouhsine of ML Nomads tasks participants with water mapping using satellite imagery for dam drought detection.
+Google is supporting each community host this round through its Google for Developers program.
+Participants are encouraged to search for “ML Olympiad” on Kaggle, follow #MLOlympiad on social media, and get involved in the competitions that most interest them.
+With such a diverse array of real-world machine learning challenges, the ML Olympiad represents an excellent opportunity for developers to put their skills to the test and gain valuable experience.
+(Image Credit: Google)
+See also: Microsoft: China plans to disrupt elections with AI-generated disinformation

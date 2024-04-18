@@ -1,13 +1,32 @@
 # llm
 Online LLM
 
-##### Run API:
+#### Set up Environment
+
+In the project directory assign the following environment variables:
+
+export OPENAI_API_BASE=https://api.openai.com/v1
+
+export OPENAI_API_KEY=sk-xxxxxxx (your OpenAI API key)
+
+(Make sure they are available in both the root directory to be accessed by test.py and in rust_rest_api directory to be accessed by the API)
+
+##### Run API (using binary executable):
+
+./target/release/rust_rest_api
+
+#### Run API (using cargo)
+
+With cargo package manager set up the binary executable file can be updated using:
+
+cargo build --release
+
+The API can be also be run using:
+
 cargo run
 
-##### Examples of using the /chat/completions endpoint:
+##### Test the /chat/completions endpoint:
 
-curl -X POST http://localhost:8000/chat/completions \
--d '{"role": "system", "content": "you are a helpful assistant"}'
+Install the requirements in python_requirements.txt
 
-curl -X POST http://localhost:8000/chat/completions \
--d '{"role": "user", "content": "why is the sky blue? limit to 10 words."}'
+Run: python3 test.py

@@ -1,0 +1,18 @@
+UAE set to help fund OpenAI's in-house chips
+March 15, 2024
+
+						Ryan Daws is a senior editor at TechForge Media, with a seasoned background spanning over a decade in tech journalism. His expertise lies in identifying the latest technological trends, dissecting complex topics, and weaving compelling narratives around the most cutting-edge developments. His articles and interviews with leading industry figures have gained him recognition as a key influencer by organisations such as Onalytica. Publications under his stewardship have since gained recognition from leading analyst houses like Forrester for their performance. Find him on X (@gadget_ry) or Mastodon (@gadgetry@techhub.social)
+			
+OpenAI’s ambitious plans to develop its own semiconductor chips for powering advanced AI models could receive a boost from the United Arab Emirates (UAE), according to a report by the Financial Times.
+The report states that MGX — a state-backed group in Abu Dhabi — is in discussions to support OpenAI’s venture to build AI chips in-house. This information comes from two individuals with knowledge of the discussions.
+In order to achieve its goal of creating semiconductor chips internally, OpenAI is reportedly seeking investments worth trillions of dollars from investors worldwide. By manufacturing its own chips, the San Francisco-based company aims to reduce its reliance on Nvidia, the current global leader in semiconductor chip technology.
+As part of its funding efforts, OpenAI struck a deal with Thrive Capital in February 2023, which reportedly increased the company’s valuation to more than $80 billion, marking an almost threefold increase in under 10 months.
+This comes as the UK semiconductor sector gains enhanced access to research funding through the country’s participation in the EU’s ‘Chips Joint Undertaking’.
+The UK’s participation in the Chips Joint Undertaking provides the British semiconductor sector with enhanced access to a €1.3 billion pot of funds set aside from Horizon Europe to support research in semiconductor technologies up to 2027. The move is backed by an initial £5 million from the UK government this year, with an additional £30 million due to support UK participation in further research between 2025 and 2027.
+“Our membership of the Chips Joint Undertaking will boost Britain’s strengths in semiconductor science and research to secure our position in the global chip supply chain,” said Technology Minister Saqib Bhatti. “This underscores our unwavering commitment to pushing the boundaries of technology and cements our important role in shaping the future of semiconductor technologies around the world.”
+Back in the UAE, MGX — the group behind the potential investment in OpenAI — is an AI-focused fund launched earlier this week and headed by the UAE’s national security adviser, Sheikh Tahnoon Bin Zayed al-Nahyan. The fund was established in collaboration with G42 and Mubadala, with G42 having already entered into a partnership with OpenAI in October 2023 as part of the company’s Middle East expansion.
+During the G42 partnership deal, OpenAI CEO Sam Altman stated that they plan to bring AI solutions to the Middle East that “resonate with the nuances of the region.”
+One of the sources briefed on the MGX fund emphasised, “They’re looking at creating a structure that will put Abu Dhabi at the centre of this AI strategy with global partners around the world.”
+As the race to develop cutting-edge semiconductor technologies intensifies, both the UAE and the UK-EU are positioning themselves as key players.
+(Photo by Wael Hneini on Unsplash)
+See also: EU approves controversial AI Act to mixed reactions

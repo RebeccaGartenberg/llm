@@ -1,0 +1,23 @@
+UN passes first global AI resolution
+March 22, 2024
+
+						Ryan Daws is a senior editor at TechForge Media, with a seasoned background spanning over a decade in tech journalism. His expertise lies in identifying the latest technological trends, dissecting complex topics, and weaving compelling narratives around the most cutting-edge developments. His articles and interviews with leading industry figures have gained him recognition as a key influencer by organisations such as Onalytica. Publications under his stewardship have since gained recognition from leading analyst houses like Forrester for their performance. Find him on X (@gadget_ry) or Mastodon (@gadgetry@techhub.social)
+			
+The UN General Assembly has adopted a landmark resolution on AI, aiming to promote the safe and ethical development of AI technologies worldwide.
+The resolution, co-sponsored by over 120 countries, was adopted unanimously by all 193 UN member states on 21 March. This marks the first time the UN has established global standards and guidelines for AI.
+The eight-page resolution calls for the development of “safe, secure, and trustworthy” AI systems that respect human rights and fundamental freedoms. It urges member states and stakeholders to refrain from deploying AI inconsistent with international human rights laws.
+Key aspects of the resolution include:
+The resolution also encourages governments to develop national policies, safeguards, and standards for ethical AI development and use. It calls on UN agencies to provide technical assistance to countries in need.
+“The resolution adopted today lays out a comprehensive vision for how countries should respond to the opportunities and challenges of AI,” said Jake Sullivan, US National Security Advisor.
+“It lays out a path for international cooperation on AI, including to promote equitable access, take steps to manage the risks of AI, protect privacy, guard against misuse, prevent exacerbated bias and discrimination.”
+The UN General Assembly on Thursday adopted a landmark resolution on the promotion of “safe, secure and trustworthy” artificial intelligence (AI) systems that will also benefit sustainable development for allRead more ⤵️https://t.co/xuDcyI4qRL pic.twitter.com/5LpKWvCuBf
+The UN resolution follows several international efforts to regulate the rapidly growing AI industry over ethics and security concerns.
+The European Union recently approved the AI Act to set risk-based rules for AI across the 27-nation bloc. Investigations into potential antitrust issues around AI have also been launched against major tech companies.
+In the US, President Biden signed an executive order last year initiating a national AI strategy with a focus on safety and security.
+As AI capabilities advance, the UN resolution signals a global commitment to ensure the technology’s development aligns with ethical principles and benefits humanity as a whole.
+“Developed in consultation with civil society and private sector experts, the resolution squarely addresses the priorities of many developing countries, such as encouraging AI capacity building and harnessing the technology to advance sustainable development,” explained Sullivan.
+“Critically, the resolution makes clear that protecting human rights and fundamental freedoms must be central to the development and use of AI systems.”
+We fully support the @UN's adoption of the comprehensive AI resolution. The consensus reached today marks a critical step towards establishing international guardrails for the ethical and sustainable development of AI, ensuring this technology serves the needs of everyone.
+The full text of the UN resolution can be found here.
+(Photo by Ilyass SEDDOUG)
+See also: NVIDIA unveils Blackwell architecture to power next GenAI wave 

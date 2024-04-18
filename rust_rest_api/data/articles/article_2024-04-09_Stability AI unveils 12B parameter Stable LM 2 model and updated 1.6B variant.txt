@@ -1,0 +1,15 @@
+Stability AI unveils 12B parameter Stable LM 2 model and updated 1.6B variant
+April 9, 2024
+
+						Ryan Daws is a senior editor at TechForge Media, with a seasoned background spanning over a decade in tech journalism. His expertise lies in identifying the latest technological trends, dissecting complex topics, and weaving compelling narratives around the most cutting-edge developments. His articles and interviews with leading industry figures have gained him recognition as a key influencer by organisations such as Onalytica. Publications under his stewardship have since gained recognition from leading analyst houses like Forrester for their performance. Find him on X (@gadget_ry) or Mastodon (@gadgetry@techhub.social)
+			
+Stability AI has introduced the latest additions to its Stable LM 2 language model series: a 12 billion parameter base model and an instruction-tuned variant. These models were trained on an impressive two trillion tokens across seven languages: English, Spanish, German, Italian, French, Portuguese, and Dutch.
+The 12 billion parameter model aims to strike a balance between strong performance, efficiency, memory requirements, and speed. It follows the established framework of Stability AI’s previously released Stable LM 2 1.6B technical report. This new release extends the company’s model range, offering developers a transparent and powerful tool for innovating with AI language technology.
+Alongside the 12B model, Stability AI has also released a new version of its Stable LM 2 1.6B model. This updated 1.6B variant improves conversation abilities across the same seven languages while maintaining remarkably low system requirements.
+Stable LM 2 12B is designed as an efficient open model tailored for multilingual tasks with smooth performance on widely available hardware.
+According to Stability AI, this model can handle tasks typically feasible only for significantly larger models, which often require substantial computational and memory resources, such as large Mixture-of-Experts (MoEs). The instruction-tuned version is particularly well-suited for various uses, including as a central part of retrieval RAG systems, due to its high performance in tool usage and function calling.
+In performance comparisons with popular strong language models like Mixtral, Llama2, Qwen 1.5, Gemma, and Mistral, Stable LM 2 12B offers solid results when tested on zero-shot and few-shot tasks across general benchmarks outlined in the Open LLM leaderboard:
+With this new release, Stability AI extends the StableLM 2 family into the 12B category, providing an open and transparent model without compromising power and accuracy. The company is confident that this release will enable developers and businesses to continue developing the future while retaining full control over their data.
+Developers and businesses can use Stable LM 2 12B now for commercial and non-commercial purposes with a Stability AI Membership.
+(Photo by Muha Ajjan)
+See also: ML Olympiad returns with over 20 challenges

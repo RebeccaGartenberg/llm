@@ -1,0 +1,18 @@
+IPPR: 8M UK careers at risk of 'job apocalypse' from AI
+March 27, 2024
+
+						Ryan Daws is a senior editor at TechForge Media, with a seasoned background spanning over a decade in tech journalism. His expertise lies in identifying the latest technological trends, dissecting complex topics, and weaving compelling narratives around the most cutting-edge developments. His articles and interviews with leading industry figures have gained him recognition as a key influencer by organisations such as Onalytica. Publications under his stewardship have since gained recognition from leading analyst houses like Forrester for their performance. Find him on X (@gadget_ry) or Mastodon (@gadgetry@techhub.social)
+			
+A report by the Institute for Public Policy Research (IPPR) sheds light on the potential impact of AI on the UK job market. The study warns of an imminent ‘job apocalypse’, threatening to engulf over eight million careers across the nation, unless swift government intervention is enacted.
+The report identifies two key stages of generative AI adoption. The first wave, which is already underway, exposes 11 percent of tasks performed by UK workers. Routine cognitive tasks like database management and organisational tasks like scheduling are most at risk. 
+However, in a potential second wave, AI could handle a staggering 59 percent of tasks—impacting higher-earning jobs and non-routine cognitive work like creating databases.
+Bhargav Srinivasa Desikan, Senior Research Fellow at IPPR, said: “We could see jobs such as copywriters, graphic designers, and personal assistants roles being heavily affected by AI. The question is how we can steer technological change in a way that allows for novel job opportunities, increased productivity, and economic benefits for all.”
+“We are at a sliding doors moment, and policy makers urgently need to develop a strategy to make sure our labour market adapts to the 21st century, without leaving millions behind. It is crucial that all workers benefit from these technological advancements, and not just the big tech corporations.”
+IPPR modelled three scenarios for the second wave’s impact:
+IPPR warns the worst-case displacement is possible without government intervention, urging a “job-centric” AI strategy with fiscal incentives, regulation ensuring human oversight, and support for green jobs less exposed to automation.
+The analysis underscores the disproportionate impact on certain demographics, with women and young people bearing the brunt of job displacement. Entry-level positions, predominantly occupied by these groups, face the gravest jeopardy as AI encroaches on roles such as secretarial and customer service positions.
+Carsten Jung, Senior Economist at IPPR, said: “History shows that technological transition can be a boon if well managed, or can end in disruption if left to unfold without controls. Indeed, some occupations could be hard hit by generative AI, starting with back office jobs.
+“But technology isn’t destiny and a jobs apocalypse is not inevitable – government, employers, and unions have the opportunity to make crucial design decisions now that ensure we manage this new technology well. If they don’t act soon, it may be too late.”
+A full copy of the report can be found here (PDF)
+(Photo by Cullan Smith)
+See also: Stanhope raises £2.3m for AI that teaches machines to ‘make human-like decisions’

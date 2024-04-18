@@ -1,0 +1,21 @@
+How to safeguard your business from AI-generated deepfakes
+April 3, 2024
+
+			                
+				
+            			As executive director at the Responsible AI Institute, Var Shankar helps organizations use AI in alignment with applicable laws, frameworks and best practices.
+
+He is a member of the OECD's Network of Experts on AI, World Economic Forum's AI Governance Alliance and the Brookings Forum for Cooperation on AI. He is a Co-Instructor, along with Alexis Cook, of Kaggle’s AI Ethics course.
+
+A graduate of Harvard Law School, Var previously practiced law at Cravath, Swaine & Moore LLP and worked on the Clinton Global Initiative.
+			
+Recently, cybercriminals used ‘deepfake’ videos of the executives of a multinational company to convince the company’s Hong Kong-based employees to wire out US $25.6 million. Based on a video conference call featuring multiple deepfakes, the employees believed that their UK-based chief financial officer had requested that the funds be transferred. Police have reportedly arrested six people in connection with the scam. This use of AI technology is dangerous and manipulative. Without proper guidelines and frameworks in place, more organizations risk falling victim to AI scams like deepfakes. 
+Deepfakes are forms of digitally altered media — including photos, videos and audio clips — that seem to depict a real person. They are created by training an AI system on real clips featuring a person, and then using that AI system to generate realistic (yet inauthentic) new media. Deepfake use is becoming more common. The Hong Kong case was the latest in a series of high-profile deepfake incidents in recent weeks. Fake, explicit images of Taylor Swift circulated on social media, the political party of an imprisoned election candidate in Pakistan used a deepfake video of him to deliver a speech and a deepfake ‘voice clone’ of President Biden called primary voters to tell them not to vote. 
+Less high-profile cases of deepfake use by cybercriminals have also been rising in both scale and sophistication. In the banking sector, cybercriminals are now attempting to overcome voice authentication by using voice clones of people to impersonate users and gain access to their funds. Banks have responded by improving their abilities to identify deepfake use and increasing authentication requirements. 
+Cybercriminals have also targeted individuals with ‘spear phishing’ attacks that use deepfakes. A common approach is to deceive a person’s family members and friends by using a voice clone to impersonate someone in a phone call and ask for funds to be transferred to a third-party account. Last year, a survey by McAfee found that 70% of surveyed people were not confident that they could distinguish between people and their voice clones and that nearly half of surveyed people would respond to requests for funds if the family member or friend making the call claimed to have been robbed or in a car accident.
+Cybercriminals have also called people pretending to be tax authorities, banks, healthcare providers and insurers in efforts to gain financial and personal details. 
+In February, the Federal Communications Commission ruled that phone calls using AI-generated human voices are illegal unless made with prior express consent of the called party. The Federal Trade Commission also finalized a rule prohibiting AI impersonation of government organizations and businesses and proposed a similar rule prohibiting AI impersonation of individuals. This adds to a growing list of legal and regulatory measures being put in place around the world to combat deepfakes. 
+To protect employees and brand reputation against deepfakes, leaders should adhere to the following steps:
+Though deepfakes are a cybersecurity concern, companies should also think of them as complex and emerging phenomena with broader repercussions. A proactive and thoughtful approach to addressing deepfakes can help educate stakeholders and ensure that measures to combat them are responsible, proportionate and appropriate.
+(Photo by Markus Spiske)
+See also: UK and US sign pact to develop AI safety tests

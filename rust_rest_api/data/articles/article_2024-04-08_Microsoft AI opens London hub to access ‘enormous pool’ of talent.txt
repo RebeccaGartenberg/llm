@@ -1,0 +1,17 @@
+Microsoft AI opens London hub to access ‘enormous pool’ of talent
+April 8, 2024
+
+						Ryan Daws is a senior editor at TechForge Media, with a seasoned background spanning over a decade in tech journalism. His expertise lies in identifying the latest technological trends, dissecting complex topics, and weaving compelling narratives around the most cutting-edge developments. His articles and interviews with leading industry figures have gained him recognition as a key influencer by organisations such as Onalytica. Publications under his stewardship have since gained recognition from leading analyst houses like Forrester for their performance. Find him on X (@gadget_ry) or Mastodon (@gadgetry@techhub.social)
+			
+Microsoft is doubling down on its AI efforts in the UK with the opening of a major new AI hub in London. The Microsoft AI London outpost will focus on advancing state-of-the-art language models, supporting infrastructure, and tooling for foundation models.
+The hub will be led by AI scientist and engineer Jordan Hoffmann, who previously distinguished himself as a pioneer at AI companies Inflection and DeepMind, which are also based in London.
+“There is an enormous pool of AI talent and expertise in the UK, and Microsoft AI plans to make a significant, long-term investment in the region as we begin hiring the best AI scientists and engineers into this new AI hub,” said Mustafa Suleyman, EVP and CEO of Microsoft AI.
+Suleyman, who co-founded AI startup Inflection before it was acquired by Microsoft, is a British citizen born and raised in London. “I’m proud to have co-founded and built a cutting-edge AI business here. I’m deeply aware of the extraordinary talent pool and AI ecosystem in the UK,” he commented.
+Microsoft has an existing AI research presence in the UK through its Microsoft Research lab in Cambridge. However, the new dedicated Microsoft AI London hub signals the company’s increased commitment to advancing the field in Britain.
+The UK has phenomenal AI talent and a long established culture of responsible AI development. Today I’m proud to be opening a new office: Microsoft AI London. If you’d like to join us, get in touch. We’re hiring!https://t.co/DmFD3wFwQi
+The investment builds upon Microsoft’s recently announced £2.5 billion pledge to upskill the UK workforce and build AI infrastructure – including bringing 20,000 advanced GPUs to the country by 2026.
+Microsoft AI London will collaborate closely with other teams across Microsoft and partners like OpenAI. The company expects to post job openings in the coming weeks and is seeking “exceptional individuals” passionate about tackling AI’s biggest challenges.
+“I know – through my close work with thought leaders in the UK government, business community, and academia – that the country is committed to advancing AI responsibly and with a safety-first commitment to drive investment, innovation, and economic growth,” said Suleyman.
+“Our decision to open this hub in the UK reflects this ambition.”
+(Photo by Charles Postiaux)
+See also: Microsoft: China plans to disrupt elections with AI-generated disinformation

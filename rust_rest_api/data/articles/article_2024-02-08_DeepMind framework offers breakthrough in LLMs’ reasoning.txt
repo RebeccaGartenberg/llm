@@ -1,0 +1,16 @@
+DeepMind framework offers breakthrough in LLMs’ reasoning
+February 8, 2024
+
+						Ryan Daws is a senior editor at TechForge Media, with a seasoned background spanning over a decade in tech journalism. His expertise lies in identifying the latest technological trends, dissecting complex topics, and weaving compelling narratives around the most cutting-edge developments. His articles and interviews with leading industry figures have gained him recognition as a key influencer by organisations such as Onalytica. Publications under his stewardship have since gained recognition from leading analyst houses like Forrester for their performance. Find him on X (@gadget_ry) or Mastodon (@gadgetry@techhub.social)
+			
+A breakthrough approach in enhancing the reasoning abilities of large language models (LLMs) has been unveiled by researchers from Google DeepMind and the University of Southern California.
+Their new ‘SELF-DISCOVER’ prompting framework – published this week on arXiV and Hugging Face – represents a significant leap beyond existing techniques, potentially revolutionising the performance of leading models such as OpenAI’s GPT-4 and Google’s PaLM 2.
+The framework promises substantial enhancements in tackling challenging reasoning tasks. It demonstrates remarkable improvements, boasting up to a 32% performance increase compared to traditional methods like Chain of Thought (CoT). This novel approach revolves around LLMs autonomously uncovering task-intrinsic reasoning structures to navigate complex problems.
+At its core, the framework empowers LLMs to self-discover and utilise various atomic reasoning modules – such as critical thinking and step-by-step analysis – to construct explicit reasoning structures.
+By mimicking human problem-solving strategies, the framework operates in two stages:
+In extensive testing across various reasoning tasks – including Big-Bench Hard, Thinking for Doing, and Math – the self-discover approach consistently outperformed traditional methods. Notably, it achieved an accuracy of 81%, 85%, and 73% across the three tasks with GPT-4, surpassing chain-of-thought and plan-and-solve techniques.
+However, the implications of this research extend far beyond mere performance gains.
+By equipping LLMs with enhanced reasoning capabilities, the framework paves the way for tackling more challenging problems and brings AI closer to achieving general intelligence. Transferability studies conducted by the researchers further highlight the universal applicability of the composed reasoning structures, aligning with human reasoning patterns.
+As the landscape evolves, breakthroughs like the SELF-DISCOVER prompting framework represent crucial milestones in advancing the capabilities of language models and offering a glimpse into the future of AI.
+(Photo by Victor on Unsplash)
+See also: The UK is outpacing the US for AI hiring

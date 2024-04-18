@@ -1,0 +1,17 @@
+OpenAI calls Elon Musk's lawsuit claims 'incoherent'
+March 12, 2024
+
+						Ryan Daws is a senior editor at TechForge Media, with a seasoned background spanning over a decade in tech journalism. His expertise lies in identifying the latest technological trends, dissecting complex topics, and weaving compelling narratives around the most cutting-edge developments. His articles and interviews with leading industry figures have gained him recognition as a key influencer by organisations such as Onalytica. Publications under his stewardship have since gained recognition from leading analyst houses like Forrester for their performance. Find him on X (@gadget_ry) or Mastodon (@gadgetry@techhub.social)
+			
+OpenAI has hit back at Elon Musk’s lawsuit, deeming his claims “convoluted — often incoherent — factual premises.”
+Musk’s lawsuit accuses OpenAI of breaching its non-profit status and reneging on a founding agreement to keep the organisation non-profit and release its AI technology publicly. However, OpenAI has refuted these allegations, stating that there is no such agreement with Musk and branding it as a mere “fiction.”
+According to court filings, OpenAI asserts that there is no existing agreement with Musk, contradicting his assertions in the lawsuit.
+The organisation further alleges that Musk had actually supported the idea of transitioning OpenAI into a for-profit entity under his control. It is claimed that Musk advocated for full control of the company as CEO, majority equity ownership, and even suggested tethering it to Tesla for financial backing. However, negotiations between Musk and OpenAI did not culminate in an agreement, leading to Musk’s withdrawal from the project.
+OpenAI’s rebuttal highlights purported emails exchanged between Musk and the organisation, indicating his prior knowledge and support for its transition to a for-profit model. The company suggests that Musk’s lawsuit is driven by his desire to claim credit for OpenAI’s successes after he disengaged from the project.
+In response to Musk’s legal action, OpenAI has portrayed his motives as self-serving rather than altruistic, asserting that his lawsuit is a bid to further his own commercial interests under the guise of championing humanity’s cause.
+Meanwhile, Musk’s own foray into the realm of artificial intelligence with his company xAI has drawn attention.
+Musk announced xAI’s intention to open source its Grok chatbot shortly after OpenAI’s publication of emails purportedly demonstrating Musk’s prior awareness of its non-open source intentions. While this move could be interpreted as a retaliatory gesture against OpenAI, it also presents an opportunity for xAI to garner feedback from developers and enhance its technology.
+OpenAI is a lie https://t.co/TEobODhCfq
+The legal clash between Musk and OpenAI underscores the complexities surrounding the development and governance of AI technologies, as well as the competing interests within the tech industry.
+(Photo by Tim Mossholder on Unsplash)
+See also: OpenAI announces new board lineup and governance structure

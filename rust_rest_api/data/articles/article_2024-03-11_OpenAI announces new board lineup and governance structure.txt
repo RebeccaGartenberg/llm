@@ -1,0 +1,19 @@
+OpenAI announces new board lineup and governance structure
+March 11, 2024
+
+						Ryan Daws is a senior editor at TechForge Media, with a seasoned background spanning over a decade in tech journalism. His expertise lies in identifying the latest technological trends, dissecting complex topics, and weaving compelling narratives around the most cutting-edge developments. His articles and interviews with leading industry figures have gained him recognition as a key influencer by organisations such as Onalytica. Publications under his stewardship have since gained recognition from leading analyst houses like Forrester for their performance. Find him on X (@gadget_ry) or Mastodon (@gadgetry@techhub.social)
+			
+OpenAI has announced a refreshed board of directors and new governance structure following recent turmoil that saw CEO Sam Altman ousted, briefly recruited by Microsoft, and then quickly reinstated at the AI research company.
+In a statement, OpenAI said Altman will rejoin the board alongside three new independent directors: Sue Desmond-Hellmann, former CEO of the Bill and Melinda Gates Foundation, Nicole Seligman, former executive vice president and general counsel at Sony Corporation, and Fidji Simo, CEO and chair of Instacart.
+Bret Taylor, Chair of the OpenAI board, said: “I am excited to welcome Sue, Nicole, and Fidji to the OpenAI Board of Directors. Their experience and leadership will enable the Board to oversee OpenAI’s growth, and to ensure that we pursue OpenAI’s mission of ensuring artificial general intelligence benefits all of humanity.”
+The previous board members who resigned amid the recent chaos were Helen Toner of Georgetown’s Center for Security and Emerging Technology, OpenAI chief scientist Ilya Sutskever, and entrepreneur Tasha McCauley.
+Altman and Greg Brockman will continue to lead OpenAI as CEO and president respectively, working with the new board chaired by former Salesforce CEO Bret Taylor.
+“We have unanimously concluded that Sam and Greg are the right leaders for OpenAI,” Taylor said..
+Existing directors Adam D’Angelo of Quora and former US Treasury Secretary Larry Summers remain on the board.
+An independent review by law firm WilmerHale found that while Altman’s termination was within the prior board’s discretion, his conduct did not necessitate removal.
+The board shakeup follows a period of upheaval at OpenAI. Altman’s brief firing last month prompted an employee petition and public backlash over governance concerns.
+In response, the board has announced the adoption of important improvements to OpenAI’s governance structure, including adopting a new set of corporate governance guidelines, strengthening the company’s Conflict of Interest Policy, creating a whistleblower hotline for anonymous reporting by employees and contractors, and forming additional committees like a Mission & Strategy group focused on implementing OpenAI’s core mission.
+With a reset board, strengthened policies, and stated commitment to transparency, OpenAI aims to move forward from the saga under a new system of oversight and accountability.
+“We recognise the magnitude of our role in stewarding transformative technologies for the global good,” concludes Taylor.
+(Photo by Jonathan Kemper on Unsplash)
+See also: OpenAI: Musk wanted us to merge with Tesla or take ‘full control’

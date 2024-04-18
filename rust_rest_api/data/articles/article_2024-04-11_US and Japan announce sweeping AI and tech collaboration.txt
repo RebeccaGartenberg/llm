@@ -1,0 +1,21 @@
+US and Japan announce sweeping AI and tech collaboration
+April 11, 2024
+
+						Ryan Daws is a senior editor at TechForge Media, with a seasoned background spanning over a decade in tech journalism. His expertise lies in identifying the latest technological trends, dissecting complex topics, and weaving compelling narratives around the most cutting-edge developments. His articles and interviews with leading industry figures have gained him recognition as a key influencer by organisations such as Onalytica. Publications under his stewardship have since gained recognition from leading analyst houses like Forrester for their performance. Find him on X (@gadget_ry) or Mastodon (@gadgetry@techhub.social)
+			
+The US and Japan have unveiled a raft of new AI, quantum computing, semiconductors, and other critical technology initiatives.
+The ambitious plans were announced this week by President Biden and Japanese Prime Minister Kishida Fumio following Kishida’s Official Visit to the White House.
+While the leaders affirmed their commitment across a broad range of areas including defence, climate, development, and humanitarian efforts, the new technology collaborations took centre stage and underscore how the US-Japan alliance is evolving into a comprehensive global partnership underpinned by innovation.
+One of the headline initiatives is a $110 million partnership between the University of Washington, University of Tsukuba, Carnegie Mellon University, and Keio University. Backed by tech giants like NVIDIA, Arm, Amazon, and Microsoft—as well as Japanese companies—the program aims to solidify US-Japan leadership in cutting-edge AI research and development.
+The US and Japan also committed to supporting each other in establishing national AI Safety Institutes and pledged future collaboration on interoperable AI safety standards, evaluations, and risk management frameworks.
+In a bid to mitigate AI risks, the countries vowed to provide transparency around AI-generated and manipulated content from official government channels. Technical research and standards efforts were promised to identify and authenticate synthetic media.
+Quantum technology featured prominently, with the US National Institute of Standards and Technology (NIST) partnering with Japan’s National Institute of Advanced Industrial Science and Technology (AIST) to build robust quantum supply chains.
+Trilateral cooperation between the University of Chicago, University of Tokyo, and Seoul National University was also announced to train a quantum workforce and bolster competitiveness.  
+The US and Japan additionally welcomed new commercial deals including Quantinuum providing Japan’s RIKEN institute with $50 million in quantum computing services over five years.
+Several semiconductor initiatives were unveiled such as potential cooperation between Japan’s Leading-edge Semiconductor Technology Center (LSTC) with the US National Semiconductor Technology Center and National Advanced Packaging Manufacturing Program. The countries pledged to explore joint semiconductor workforce development initiatives through technical workshops.
+Other announced commercial deals spanned cloud computing, telecommunications, batteries, robotics, biotechnology, finance, transportation and beyond—highlighting how the alliance is fusing public and private efforts.
+Initiatives around STEM education exchanges, technology curriculums, entrepreneur programs, and talent circulation efforts emphasised the focus on developing human capital to power the coming wave of digital innovation.
+While the technological breakthroughs grab attention, the proliferation of initiatives aimed at training, exchanging, and nurturing the innovators, researchers, and professionals across these domains could prove just as vital. The US and Japan appear determined to strategically develop and leverage human resources in lockstep with their efforts to establish cutting-edge AI, quantum, chip, and other advanced tech capabilities.
+Both nations clearly recognise that building complementary ecosystems across vital technologies is essential to bolstering competitiveness, economic prosperity, and national security in an era of intensifying strategic competition.
+(Photo by Tong Su)
+See also: Microsoft AI opens London hub to access ‘enormous pool’ of talent

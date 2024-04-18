@@ -1,0 +1,14 @@
+Elon Musk sues OpenAI over alleged breach of nonprofit agreement
+March 1, 2024
+
+						Ryan Daws is a senior editor at TechForge Media, with a seasoned background spanning over a decade in tech journalism. His expertise lies in identifying the latest technological trends, dissecting complex topics, and weaving compelling narratives around the most cutting-edge developments. His articles and interviews with leading industry figures have gained him recognition as a key influencer by organisations such as Onalytica. Publications under his stewardship have since gained recognition from leading analyst houses like Forrester for their performance. Find him on X (@gadget_ry) or Mastodon (@gadgetry@techhub.social)
+			
+Elon Musk has filed a lawsuit against OpenAI and its CEO, Sam Altman, citing a violation of their nonprofit agreement.
+The legal battle, unfolding in the Superior Court of California for the County of San Francisco, revolves around OpenAI’s departure from its foundational mission of advancing open-source artificial general intelligence (AGI) for the betterment of humanity.
+Musk was a co-founder and early backer of OpenAI. According to Musk, Altman and Greg Brockman (another co-founder and current president of OpenAI) convinced him to bankroll the startup in 2015 on promises that it would remain a nonprofit.
+In his legal challenge, Musk accuses OpenAI of straying from its principles through a collaboration with Microsoft—alleging that the partnership prioritises proprietary technology over the original ethos of open-source advancement.
+Musk’s grievances include claims of contract breach, violation of fiduciary duty, and unfair business practices. He calls upon OpenAI to realign with its nonprofit objectives and seeks an injunction to halt the commercial exploitation of AGI technology.
+At the heart of the dispute is OpenAI’s recent launch of GPT-4 in March 2023. Musk contends that unlike its predecessors, GPT-4 represents a shift towards closed-source models—a move he believes favours Microsoft’s financial interests at the expense of OpenAI’s altruistic mission.
+Founded in 2015 as a nonprofit AI research lab, OpenAI transitioned into a commercial entity in 2020. OpenAI has now adopted a profit-driven approach, with revenues reportedly surpassing $2 billion annually.
+Musk, who has long voiced concerns about the risks posed by AI, has called for robust government regulation and responsible AI development. He questions the technical expertise of OpenAI’s current board and highlights the removal and subsequent reinstatement of Altman in November 2023 as evidence of a profit-oriented agenda aligned with Microsoft’s interests.
+See also: Mistral AI unveils LLM rivalling major players

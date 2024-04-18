@@ -1,0 +1,20 @@
+EU approves controversial AI Act to mixed reactions
+March 13, 2024
+
+						Ryan Daws is a senior editor at TechForge Media, with a seasoned background spanning over a decade in tech journalism. His expertise lies in identifying the latest technological trends, dissecting complex topics, and weaving compelling narratives around the most cutting-edge developments. His articles and interviews with leading industry figures have gained him recognition as a key influencer by organisations such as Onalytica. Publications under his stewardship have since gained recognition from leading analyst houses like Forrester for their performance. Find him on X (@gadget_ry) or Mastodon (@gadgetry@techhub.social)
+			
+The European Parliament today approved the AI Act, the first ever regulatory framework governing the use of AI systems. The legislation passed with an overwhelming majority of 523 votes in favour, 46 against and 49 abstentions.
+“This is a historic day,” said Italian lawmaker Brando Benifei, co-lead on the AI Act. “We have the first regulation in the world which puts a clear path for safe and human-centric development of AI.”
+The AI Act will categorise AI systems into four tiers based on their potential risk to society. High-risk applications like self-driving cars will face strict requirements before being allowed on the EU market. Lower risk systems will have fewer obligations.
+“The main point now will be implementation and compliance by businesses and institutions,” Benifei stated. “We are also working on further AI legislation for workplace conditions.”
+His counterpart, Dragoş Tudorache of Romania, said the EU aims to promote these pioneering rules globally. “We have to be open to work with others on how to build governance with like-minded parties.”
+🚨BREAKING: The European Parliament has just APPROVED the AI Act. What everyone should know:➵ The AI Act follows a risk-based approach. Some AI systems are banned, such as those involving:– Cognitive behavioral manipulation of people or specific vulnerable groups;– Social… pic.twitter.com/JiaA8qXEGx
+The general AI rules take effect in May 2025, while obligations for high-risk systems kick in after three years. National oversight agencies will monitor compliance.
+Reaction was mixed on whether the Act properly balances innovation with protecting rights.
+Curtis Wilson, a data scientist at Synopsys, believes it will build public trust: “The strict rules and punishing fines will deter careless developers, and help customers be more confident in using AI systems…Ensuring all AI developers adhere to these standards is to everyone’s benefit.”
+However, Mher Hakobyan from Amnesty International criticised the legislation as favouring industry over human rights: “It is disappointing that the EU chose to prioritise interests of industry and law enforcement over protecting people…It lacks proper transparency and accountability provisions, which will likely exacerbate abuses.”
+Companies now face the challenge of overhauling practices to comply.
+Marcus Evans, a data privacy lawyer, advised: “Businesses need to create and maintain robust AI governance to make the best use of the technology and ensure compliance with the new regime…They need to start preparing now to not fall foul of the rules.”
+After years of negotiations, the AI Act signals the EU intends to lead globally on this transformative technology. But dissenting voices show challenges remain in finding the right balance.
+(Photo by Tabrez Syed on Unsplash)
+See also: OpenAI calls Elon Musk’s lawsuit claims ‘incoherent’

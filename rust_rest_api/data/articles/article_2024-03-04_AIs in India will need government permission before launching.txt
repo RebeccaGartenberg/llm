@@ -1,0 +1,17 @@
+AIs in India will need government permission before launching
+March 4, 2024
+
+						Ryan Daws is a senior editor at TechForge Media, with a seasoned background spanning over a decade in tech journalism. His expertise lies in identifying the latest technological trends, dissecting complex topics, and weaving compelling narratives around the most cutting-edge developments. His articles and interviews with leading industry figures have gained him recognition as a key influencer by organisations such as Onalytica. Publications under his stewardship have since gained recognition from leading analyst houses like Forrester for their performance. Find him on X (@gadget_ry) or Mastodon (@gadgetry@techhub.social)
+			
+In an advisory issued by India’s Ministry of Electronics and Information Technology (MeitY) last Friday, it was declared that any AI technology still in development must acquire explicit government permission before being released to the public.
+Developers will also only be able to deploy these technologies after labelling the potential fallibility or unreliability of the output generated.
+Furthermore, the document outlines plans for implementing a “consent popup” mechanism to inform users about potential defects or errors produced by AI. It also mandates the labelling of deepfakes with permanent unique metadata or other identifiers to prevent misuse.
+In addition to these measures, the advisory orders all intermediaries or platforms to ensure that any AI model product – including large language models (LLM) – does not permit bias, discrimination, or threaten the integrity of the electoral process.
+Some industry figures have criticised India’s plans as going too far:
+India just kissed its future goodbye! Every company deploying a GenAI model now requires approval from the Indian government! That is, you now need approval for merely deploying a 7b open source model 🤯🤯If you know the Indian government, you know this will a huge drag!… pic.twitter.com/PnHk8SE7TF
+Developers are requested to comply with the advisory within 15 days of its issuance. It has been suggested that after compliance and application for permission to release a product, developers may be required to perform a demo for government officials or undergo stress testing.
+Although the advisory is not legally binding at present, it signifies the government’s expectations and hints at the future direction of regulation in the AI sector.
+“We are doing it as an advisory today asking you (the AI platforms) to comply with it,” said IT minister Rajeev Chandrasekhar. He added that this stance would eventually be encoded in legislation.
+“Generative AI or AI platforms available on the internet will have to take full responsibility for what the platform does, and cannot escape the accountability by saying that their platform is under testing,” continued Chandrasekhar, as reported by local media.
+(Photo by Naveed Ahmed on Unsplash)
+See also: Elon Musk sues OpenAI over alleged breach of nonprofit agreement

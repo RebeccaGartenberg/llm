@@ -1,0 +1,19 @@
+Stability AI previews Stable Diffusion 3 text-to-image model
+February 23, 2024
+
+						Ryan Daws is a senior editor at TechForge Media, with a seasoned background spanning over a decade in tech journalism. His expertise lies in identifying the latest technological trends, dissecting complex topics, and weaving compelling narratives around the most cutting-edge developments. His articles and interviews with leading industry figures have gained him recognition as a key influencer by organisations such as Onalytica. Publications under his stewardship have since gained recognition from leading analyst houses like Forrester for their performance. Find him on X (@gadget_ry) or Mastodon (@gadgetry@techhub.social)
+			
+London-based AI lab Stability AI has announced an early preview of its new text-to-image model, Stable Diffusion 3. The advanced generative AI model aims to create high-quality images from text prompts with improved performance across several key areas.
+The announcement comes just days after Stability AI’s largest rival, OpenAI, unveiled Sora—a brand new AI model capable of generating nearly-realistic, high-definition videos from simple text prompts.
+Sora, which isn’t available to the general public yet either, sparked concerns about its potential to create realistic-looking fake footage. OpenAI said it’s working with experts in misinformation and hateful content to test the tool before making it widely available. 
+According to Stability AI, Stable Diffusion 3 has significantly better abilities for handling multi-subject image generation compared to previous versions. This allows users to include more detailed prompts with multiple elements and achieve better results.  
+In addition to improvements with complex prompts, the new model boasts upgraded overall image quality and spelling accuracy. Stability AI claims these upgrades solve some consistency and coherence issues that have impacted past text-to-image models. 
+While not yet publicly available, Stability AI has opened a waitlist for people interested in early access to Stable Diffusion 3. The preview phase will allow Stability AI to gather feedback and continue refining the model before a full release planned later this year.
+Stability AI said it is also working with experts to test Stable Diffusion 3 and ensure it mitigates potential harms, similar to OpenAI’s approach with Sora.
+“We believe in safe, responsible AI practices. This means we have taken and continue to take reasonable steps to prevent the misuse of Stable Diffusion 3 by bad actors. Safety starts when we begin training our model and continues throughout the testing, evaluation, and deployment,” said Stability AI.
+“In preparation for this early preview, we’ve introduced numerous safeguards. By continually collaborating with researchers, experts, and our community, we expect to innovate further with integrity as we approach the model’s public release.”
+Stable Diffusion 3 is being offered in a range of model sizes from 800 million parameters on the low-end to 8 billion on the high-end. Stability AI said this spectrum of options aims to balance creative performance and accessibility to users with varying computational resources.  
+“Our commitment to ensuring generative AI is open, safe, and universally accessible remains steadfast,” explained Stability AI.
+“With Stable Diffusion 3, we strive to offer adaptable solutions that enable individuals, developers, and enterprises to unleash their creativity, aligning with our mission to activate humanity’s potential.”
+(Image Credit: Stability AI)
+See also: Google pledges to fix Gemini’s inaccurate and biased image generation

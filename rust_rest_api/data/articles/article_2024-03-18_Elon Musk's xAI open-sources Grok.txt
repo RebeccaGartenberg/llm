@@ -1,0 +1,16 @@
+Elon Musk's xAI open-sources Grok
+March 18, 2024
+
+						Ryan Daws is a senior editor at TechForge Media, with a seasoned background spanning over a decade in tech journalism. His expertise lies in identifying the latest technological trends, dissecting complex topics, and weaving compelling narratives around the most cutting-edge developments. His articles and interviews with leading industry figures have gained him recognition as a key influencer by organisations such as Onalytica. Publications under his stewardship have since gained recognition from leading analyst houses like Forrester for their performance. Find him on X (@gadget_ry) or Mastodon (@gadgetry@techhub.social)
+			
+Elon Musk’s startup xAI has made its large language model Grok available as open source software. The 314 billion parameter model can now be freely accessed, modified, and distributed by anyone under an Apache 2.0 license.
+The release fulfils Musk’s promise to open source Grok in an effort to accelerate AI development and adoption.
+XAI announced the move in a blog post, stating: “We are releasing the base model weights and network architecture of Grok-1, our large language model. Grok-1 is a 314 billion parameter Mixture-of-Experts model trained from scratch by xAI.”
+Grok had previously only been available through Musk’s social network X as part of the paid X Premium+ subscription. By open sourcing it, xAI has empowered developers, companies, and enthusiasts worldwide to leverage the advanced language model’s capabilities.
+here's your DEEP DIVE into @grok's architecture!I just went through the https://t.co/8Y5cjeImg6, for this 314B open source behemoth with *no strings attached*.👇🧵 pic.twitter.com/CraHKGqILe
+The model’s release includes its weights, which represent the strength of connections between its artificial neurons, as well as documentation and code. However, it omits the original training data and access to real-time data streams that gave the proprietary version an advantage.
+Named after a term meaning “understanding” from Douglas Adams’ Hitchhiker’s Guide series, Grok has been positioned as a more open and humorous alternative to OpenAI’s ChatGPT. The move aligns with Musk’s battle against censorship, “woke” ideology displayed by models like Gemini, and his recent lawsuit claiming OpenAI violated its nonprofit principles.
+While xAI’s open source release earned praise from open source advocates, some critics raised concerns about potential misuse facilitated by unrestricted access to powerful AI capabilities.
+You can find Grok-1 on GitHub here.
+(Image Credit: xAI)
+See also: Anthropic says Claude 3 Haiku is the fastest model in its class

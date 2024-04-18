@@ -1,0 +1,18 @@
+OpenAI chooses Tokyo for its first Asian office
+April 15, 2024
+
+						Ryan Daws is a senior editor at TechForge Media, with a seasoned background spanning over a decade in tech journalism. His expertise lies in identifying the latest technological trends, dissecting complex topics, and weaving compelling narratives around the most cutting-edge developments. His articles and interviews with leading industry figures have gained him recognition as a key influencer by organisations such as Onalytica. Publications under his stewardship have since gained recognition from leading analyst houses like Forrester for their performance. Find him on X (@gadget_ry) or Mastodon (@gadgetry@techhub.social)
+			
+OpenAI has announced the opening of a new office in Tokyo to drive its expansion into the Asian market.
+The new office aims to foster collaboration with the Japanese government, local businesses, and research institutions to develop AI tools tailored to Japan’s unique requirements.
+Tokyo was selected for OpenAI’s first Asian venture due to its global leadership in technology, a culture dedicated to service, and an innovative community.
+“We’re excited to be in Japan which has a rich history of people and technology coming together to do more,” explained Sam Altman, CEO of OpenAI. “We believe AI will accelerate work by empowering people to be more creative and productive, while also delivering broad value to current and new industries that have yet to be imagined.”
+To ensure effective engagement within the local community and spearhead OpenAI’s initiatives in Japan, Tadao Nagasaki has been welcomed as the president of OpenAI Japan. Nagasaki’s role will involve leading commercial and market engagement efforts and building a local team to progress global affairs, go-to-market, communications, operations, and other functions catered to Japan.
+OpenAI is granting local businesses early access to a customised GPT-4 model optimised for the Japanese language. This custom model boasts enhanced performance in translating and summarising Japanese text, offers cost-effectiveness, and operates up to three times faster than its predecessor. 
+Speak – a leading English learning app in Japan – reportedly benefits from faster tutor explanations in Japanese with a significant reduction in token cost, facilitating improved quality of tutor feedback across more applications with higher limits per user.
+The new office positions OpenAI closer to major businesses such as Daikin, Rakuten, and TOYOTA Connected, which are leveraging ChatGPT Enterprise to streamline complex business operations, assist in data analysis, and improve internal reporting.
+Local governments, including Yokosuka City, are adopting the technology to enhance public service efficiency. Yokosuka City has notably expanded ChatGPT access to nearly all city employees, with 80 percent reporting productivity gains.
+The Japanese government’s role as a leading voice in AI policy – especially after chairing the Hiroshima AI Process – aims to foster AI development aligned with human dignity, diversity, and inclusion, and sustainable societies. OpenAI seeks to contribute to the local ecosystem and explore AI solutions for societal challenges, such as rural depopulation and labour shortages, within the region.
+OpenAI’s expansion into Japan highlights its global mission to ensure artificial general intelligence benefits all of humanity, underlining the importance of incorporating diverse perspectives.
+(Photo by Jezael Melgoza)
+See also: US and Japan announce sweeping AI and tech collaboration
