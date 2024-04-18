@@ -11,6 +11,14 @@ export OPENAI_API_KEY=sk-xxxxxxx (your OpenAI API key)
 
 (Make sure they are available in both the root directory to be accessed by test.py and in rust_rest_api directory to be accessed by the API)
 
+#### Set up Local Database
+
+Install postgresql@14
+
+Start postgresql@14
+
+Create db: psql postgres -c "CREATE DATABASE chatbot_db;"
+
 ##### Run API (using binary executable):
 
 ./target/release/rust_rest_api
@@ -32,3 +40,9 @@ cargo run
 Install the requirements in python_requirements.txt
 
 Run: python3 test.py
+
+#### Future Improvements
+
+- Add more tests
+- Add error handling
+- Improve efficiency
